@@ -1,0 +1,1774 @@
+var0
+   0: Atom available(<ambulance0>)
+   1: Atom loaded(<acc_victim0>, <ambulance0>)
+   2: Atom loaded(<acc_victim10>, <ambulance0>)
+   3: Atom loaded(<acc_victim11>, <ambulance0>)
+   4: Atom loaded(<acc_victim12>, <ambulance0>)
+   5: Atom loaded(<acc_victim13>, <ambulance0>)
+   6: Atom loaded(<acc_victim14>, <ambulance0>)
+   7: Atom loaded(<acc_victim15>, <ambulance0>)
+   8: Atom loaded(<acc_victim16>, <ambulance0>)
+   9: Atom loaded(<acc_victim17>, <ambulance0>)
+   10: Atom loaded(<acc_victim18>, <ambulance0>)
+   11: Atom loaded(<acc_victim19>, <ambulance0>)
+   12: Atom loaded(<acc_victim1>, <ambulance0>)
+   13: Atom loaded(<acc_victim20>, <ambulance0>)
+   14: Atom loaded(<acc_victim21>, <ambulance0>)
+   15: Atom loaded(<acc_victim22>, <ambulance0>)
+   16: Atom loaded(<acc_victim23>, <ambulance0>)
+   17: Atom loaded(<acc_victim24>, <ambulance0>)
+   18: Atom loaded(<acc_victim25>, <ambulance0>)
+   19: Atom loaded(<acc_victim26>, <ambulance0>)
+   20: Atom loaded(<acc_victim27>, <ambulance0>)
+   21: Atom loaded(<acc_victim28>, <ambulance0>)
+   22: Atom loaded(<acc_victim29>, <ambulance0>)
+   23: Atom loaded(<acc_victim2>, <ambulance0>)
+   24: Atom loaded(<acc_victim30>, <ambulance0>)
+   25: Atom loaded(<acc_victim31>, <ambulance0>)
+   26: Atom loaded(<acc_victim32>, <ambulance0>)
+   27: Atom loaded(<acc_victim33>, <ambulance0>)
+   28: Atom loaded(<acc_victim34>, <ambulance0>)
+   29: Atom loaded(<acc_victim3>, <ambulance0>)
+   30: Atom loaded(<acc_victim4>, <ambulance0>)
+   31: Atom loaded(<acc_victim5>, <ambulance0>)
+   32: Atom loaded(<acc_victim6>, <ambulance0>)
+   33: Atom loaded(<acc_victim7>, <ambulance0>)
+   34: Atom loaded(<acc_victim8>, <ambulance0>)
+   35: Atom loaded(<acc_victim9>, <ambulance0>)
+   36: <none of those>
+var1
+   0: Atom available(<tow_truck0>)
+   1: Atom loaded(<car0>, <tow_truck0>)
+   2: Atom loaded(<car10>, <tow_truck0>)
+   3: Atom loaded(<car11>, <tow_truck0>)
+   4: Atom loaded(<car12>, <tow_truck0>)
+   5: Atom loaded(<car13>, <tow_truck0>)
+   6: Atom loaded(<car14>, <tow_truck0>)
+   7: Atom loaded(<car15>, <tow_truck0>)
+   8: Atom loaded(<car16>, <tow_truck0>)
+   9: Atom loaded(<car17>, <tow_truck0>)
+   10: Atom loaded(<car18>, <tow_truck0>)
+   11: Atom loaded(<car19>, <tow_truck0>)
+   12: Atom loaded(<car1>, <tow_truck0>)
+   13: Atom loaded(<car20>, <tow_truck0>)
+   14: Atom loaded(<car21>, <tow_truck0>)
+   15: Atom loaded(<car22>, <tow_truck0>)
+   16: Atom loaded(<car23>, <tow_truck0>)
+   17: Atom loaded(<car24>, <tow_truck0>)
+   18: Atom loaded(<car25>, <tow_truck0>)
+   19: Atom loaded(<car26>, <tow_truck0>)
+   20: Atom loaded(<car27>, <tow_truck0>)
+   21: Atom loaded(<car28>, <tow_truck0>)
+   22: Atom loaded(<car29>, <tow_truck0>)
+   23: Atom loaded(<car2>, <tow_truck0>)
+   24: Atom loaded(<car30>, <tow_truck0>)
+   25: Atom loaded(<car31>, <tow_truck0>)
+   26: Atom loaded(<car32>, <tow_truck0>)
+   27: Atom loaded(<car3>, <tow_truck0>)
+   28: Atom loaded(<car4>, <tow_truck0>)
+   29: Atom loaded(<car5>, <tow_truck0>)
+   30: Atom loaded(<car6>, <tow_truck0>)
+   31: Atom loaded(<car7>, <tow_truck0>)
+   32: Atom loaded(<car8>, <tow_truck0>)
+   33: Atom loaded(<car9>, <tow_truck0>)
+   34: <none of those>
+var2
+   0: Atom available(<tow_truck1>)
+   1: Atom loaded(<car0>, <tow_truck1>)
+   2: Atom loaded(<car10>, <tow_truck1>)
+   3: Atom loaded(<car11>, <tow_truck1>)
+   4: Atom loaded(<car12>, <tow_truck1>)
+   5: Atom loaded(<car13>, <tow_truck1>)
+   6: Atom loaded(<car14>, <tow_truck1>)
+   7: Atom loaded(<car15>, <tow_truck1>)
+   8: Atom loaded(<car16>, <tow_truck1>)
+   9: Atom loaded(<car17>, <tow_truck1>)
+   10: Atom loaded(<car18>, <tow_truck1>)
+   11: Atom loaded(<car19>, <tow_truck1>)
+   12: Atom loaded(<car1>, <tow_truck1>)
+   13: Atom loaded(<car20>, <tow_truck1>)
+   14: Atom loaded(<car21>, <tow_truck1>)
+   15: Atom loaded(<car22>, <tow_truck1>)
+   16: Atom loaded(<car23>, <tow_truck1>)
+   17: Atom loaded(<car24>, <tow_truck1>)
+   18: Atom loaded(<car25>, <tow_truck1>)
+   19: Atom loaded(<car26>, <tow_truck1>)
+   20: Atom loaded(<car27>, <tow_truck1>)
+   21: Atom loaded(<car28>, <tow_truck1>)
+   22: Atom loaded(<car29>, <tow_truck1>)
+   23: Atom loaded(<car2>, <tow_truck1>)
+   24: Atom loaded(<car30>, <tow_truck1>)
+   25: Atom loaded(<car31>, <tow_truck1>)
+   26: Atom loaded(<car32>, <tow_truck1>)
+   27: Atom loaded(<car3>, <tow_truck1>)
+   28: Atom loaded(<car4>, <tow_truck1>)
+   29: Atom loaded(<car5>, <tow_truck1>)
+   30: Atom loaded(<car6>, <tow_truck1>)
+   31: Atom loaded(<car7>, <tow_truck1>)
+   32: Atom loaded(<car8>, <tow_truck1>)
+   33: Atom loaded(<car9>, <tow_truck1>)
+   34: <none of those>
+var3
+   0: Atom available(<tow_truck2>)
+   1: Atom loaded(<car0>, <tow_truck2>)
+   2: Atom loaded(<car10>, <tow_truck2>)
+   3: Atom loaded(<car11>, <tow_truck2>)
+   4: Atom loaded(<car12>, <tow_truck2>)
+   5: Atom loaded(<car13>, <tow_truck2>)
+   6: Atom loaded(<car14>, <tow_truck2>)
+   7: Atom loaded(<car15>, <tow_truck2>)
+   8: Atom loaded(<car16>, <tow_truck2>)
+   9: Atom loaded(<car17>, <tow_truck2>)
+   10: Atom loaded(<car18>, <tow_truck2>)
+   11: Atom loaded(<car19>, <tow_truck2>)
+   12: Atom loaded(<car1>, <tow_truck2>)
+   13: Atom loaded(<car20>, <tow_truck2>)
+   14: Atom loaded(<car21>, <tow_truck2>)
+   15: Atom loaded(<car22>, <tow_truck2>)
+   16: Atom loaded(<car23>, <tow_truck2>)
+   17: Atom loaded(<car24>, <tow_truck2>)
+   18: Atom loaded(<car25>, <tow_truck2>)
+   19: Atom loaded(<car26>, <tow_truck2>)
+   20: Atom loaded(<car27>, <tow_truck2>)
+   21: Atom loaded(<car28>, <tow_truck2>)
+   22: Atom loaded(<car29>, <tow_truck2>)
+   23: Atom loaded(<car2>, <tow_truck2>)
+   24: Atom loaded(<car30>, <tow_truck2>)
+   25: Atom loaded(<car31>, <tow_truck2>)
+   26: Atom loaded(<car32>, <tow_truck2>)
+   27: Atom loaded(<car3>, <tow_truck2>)
+   28: Atom loaded(<car4>, <tow_truck2>)
+   29: Atom loaded(<car5>, <tow_truck2>)
+   30: Atom loaded(<car6>, <tow_truck2>)
+   31: Atom loaded(<car7>, <tow_truck2>)
+   32: Atom loaded(<car8>, <tow_truck2>)
+   33: Atom loaded(<car9>, <tow_truck2>)
+   34: <none of those>
+var4
+   0: Atom at(<ambulance0>, <accident_location0>)
+   1: Atom at(<ambulance0>, <accident_location1>)
+   2: Atom at(<ambulance0>, <accident_location2>)
+   3: Atom at(<ambulance0>, <accident_location3>)
+   4: Atom at(<ambulance0>, <accident_location4>)
+   5: Atom at(<ambulance0>, <brighouse_hospital>)
+   6: Atom at(<ambulance0>, <fire_hal>)
+   7: Atom at(<ambulance0>, <fire_hud>)
+   8: Atom at(<ambulance0>, <garage_brighouse>)
+   9: Atom at(<ambulance0>, <garage_halifax>)
+   10: Atom at(<ambulance0>, <garage_huddersfield>)
+   11: Atom at(<ambulance0>, <garage_queensbury>)
+   12: Atom at(<ambulance0>, <halifax_hospital>)
+   13: Atom at(<ambulance0>, <huddersfield_hospital>)
+   14: Atom at(<ambulance0>, <police_bradley>)
+   15: Atom at(<ambulance0>, <police_halifax>)
+   16: Atom at(<ambulance0>, <police_huddersfield>)
+   17: Atom at(<ambulance0>, <police_queen>)
+   18: <none of those>
+var5
+   0: Atom at(<fire_brigade0>, <accident_location0>)
+   1: Atom at(<fire_brigade0>, <accident_location1>)
+   2: Atom at(<fire_brigade0>, <accident_location2>)
+   3: Atom at(<fire_brigade0>, <accident_location3>)
+   4: Atom at(<fire_brigade0>, <accident_location4>)
+   5: Atom at(<fire_brigade0>, <brighouse_hospital>)
+   6: Atom at(<fire_brigade0>, <fire_hal>)
+   7: Atom at(<fire_brigade0>, <fire_hud>)
+   8: Atom at(<fire_brigade0>, <garage_brighouse>)
+   9: Atom at(<fire_brigade0>, <garage_halifax>)
+   10: Atom at(<fire_brigade0>, <garage_huddersfield>)
+   11: Atom at(<fire_brigade0>, <garage_queensbury>)
+   12: Atom at(<fire_brigade0>, <halifax_hospital>)
+   13: Atom at(<fire_brigade0>, <huddersfield_hospital>)
+   14: Atom at(<fire_brigade0>, <police_bradley>)
+   15: Atom at(<fire_brigade0>, <police_halifax>)
+   16: Atom at(<fire_brigade0>, <police_huddersfield>)
+   17: Atom at(<fire_brigade0>, <police_queen>)
+   18: <none of those>
+var6
+   0: Atom at(<police_car0>, <accident_location0>)
+   1: Atom at(<police_car0>, <accident_location1>)
+   2: Atom at(<police_car0>, <accident_location2>)
+   3: Atom at(<police_car0>, <accident_location3>)
+   4: Atom at(<police_car0>, <accident_location4>)
+   5: Atom at(<police_car0>, <brighouse_hospital>)
+   6: Atom at(<police_car0>, <fire_hal>)
+   7: Atom at(<police_car0>, <fire_hud>)
+   8: Atom at(<police_car0>, <garage_brighouse>)
+   9: Atom at(<police_car0>, <garage_halifax>)
+   10: Atom at(<police_car0>, <garage_huddersfield>)
+   11: Atom at(<police_car0>, <garage_queensbury>)
+   12: Atom at(<police_car0>, <halifax_hospital>)
+   13: Atom at(<police_car0>, <huddersfield_hospital>)
+   14: Atom at(<police_car0>, <police_bradley>)
+   15: Atom at(<police_car0>, <police_halifax>)
+   16: Atom at(<police_car0>, <police_huddersfield>)
+   17: Atom at(<police_car0>, <police_queen>)
+   18: <none of those>
+var7
+   0: Atom at(<tow_truck0>, <accident_location0>)
+   1: Atom at(<tow_truck0>, <accident_location1>)
+   2: Atom at(<tow_truck0>, <accident_location2>)
+   3: Atom at(<tow_truck0>, <accident_location3>)
+   4: Atom at(<tow_truck0>, <accident_location4>)
+   5: Atom at(<tow_truck0>, <brighouse_hospital>)
+   6: Atom at(<tow_truck0>, <fire_hal>)
+   7: Atom at(<tow_truck0>, <fire_hud>)
+   8: Atom at(<tow_truck0>, <garage_brighouse>)
+   9: Atom at(<tow_truck0>, <garage_halifax>)
+   10: Atom at(<tow_truck0>, <garage_huddersfield>)
+   11: Atom at(<tow_truck0>, <garage_queensbury>)
+   12: Atom at(<tow_truck0>, <halifax_hospital>)
+   13: Atom at(<tow_truck0>, <huddersfield_hospital>)
+   14: Atom at(<tow_truck0>, <police_bradley>)
+   15: Atom at(<tow_truck0>, <police_halifax>)
+   16: Atom at(<tow_truck0>, <police_huddersfield>)
+   17: Atom at(<tow_truck0>, <police_queen>)
+   18: <none of those>
+var8
+   0: Atom at(<tow_truck1>, <accident_location0>)
+   1: Atom at(<tow_truck1>, <accident_location1>)
+   2: Atom at(<tow_truck1>, <accident_location2>)
+   3: Atom at(<tow_truck1>, <accident_location3>)
+   4: Atom at(<tow_truck1>, <accident_location4>)
+   5: Atom at(<tow_truck1>, <brighouse_hospital>)
+   6: Atom at(<tow_truck1>, <fire_hal>)
+   7: Atom at(<tow_truck1>, <fire_hud>)
+   8: Atom at(<tow_truck1>, <garage_brighouse>)
+   9: Atom at(<tow_truck1>, <garage_halifax>)
+   10: Atom at(<tow_truck1>, <garage_huddersfield>)
+   11: Atom at(<tow_truck1>, <garage_queensbury>)
+   12: Atom at(<tow_truck1>, <halifax_hospital>)
+   13: Atom at(<tow_truck1>, <huddersfield_hospital>)
+   14: Atom at(<tow_truck1>, <police_bradley>)
+   15: Atom at(<tow_truck1>, <police_halifax>)
+   16: Atom at(<tow_truck1>, <police_huddersfield>)
+   17: Atom at(<tow_truck1>, <police_queen>)
+   18: <none of those>
+var9
+   0: Atom at(<tow_truck2>, <accident_location0>)
+   1: Atom at(<tow_truck2>, <accident_location1>)
+   2: Atom at(<tow_truck2>, <accident_location2>)
+   3: Atom at(<tow_truck2>, <accident_location3>)
+   4: Atom at(<tow_truck2>, <accident_location4>)
+   5: Atom at(<tow_truck2>, <brighouse_hospital>)
+   6: Atom at(<tow_truck2>, <fire_hal>)
+   7: Atom at(<tow_truck2>, <fire_hud>)
+   8: Atom at(<tow_truck2>, <garage_brighouse>)
+   9: Atom at(<tow_truck2>, <garage_halifax>)
+   10: Atom at(<tow_truck2>, <garage_huddersfield>)
+   11: Atom at(<tow_truck2>, <garage_queensbury>)
+   12: Atom at(<tow_truck2>, <halifax_hospital>)
+   13: Atom at(<tow_truck2>, <huddersfield_hospital>)
+   14: Atom at(<tow_truck2>, <police_bradley>)
+   15: Atom at(<tow_truck2>, <police_halifax>)
+   16: Atom at(<tow_truck2>, <police_huddersfield>)
+   17: Atom at(<tow_truck2>, <police_queen>)
+   18: <none of those>
+var10
+   0: Atom at(<car0>, <accident_location0>)
+   1: Atom at(<car0>, <garage_brighouse>)
+   2: Atom at(<car0>, <garage_halifax>)
+   3: Atom at(<car0>, <garage_huddersfield>)
+   4: Atom at(<car0>, <garage_queensbury>)
+   5: <none of those>
+var11
+   0: Atom at(<car10>, <accident_location0>)
+   1: Atom at(<car10>, <garage_brighouse>)
+   2: Atom at(<car10>, <garage_halifax>)
+   3: Atom at(<car10>, <garage_huddersfield>)
+   4: Atom at(<car10>, <garage_queensbury>)
+   5: <none of those>
+var12
+   0: Atom at(<car11>, <accident_location2>)
+   1: Atom at(<car11>, <garage_brighouse>)
+   2: Atom at(<car11>, <garage_halifax>)
+   3: Atom at(<car11>, <garage_huddersfield>)
+   4: Atom at(<car11>, <garage_queensbury>)
+   5: <none of those>
+var13
+   0: Atom at(<car12>, <accident_location2>)
+   1: Atom at(<car12>, <garage_brighouse>)
+   2: Atom at(<car12>, <garage_halifax>)
+   3: Atom at(<car12>, <garage_huddersfield>)
+   4: Atom at(<car12>, <garage_queensbury>)
+   5: <none of those>
+var14
+   0: Atom at(<car13>, <accident_location4>)
+   1: Atom at(<car13>, <garage_brighouse>)
+   2: Atom at(<car13>, <garage_halifax>)
+   3: Atom at(<car13>, <garage_huddersfield>)
+   4: Atom at(<car13>, <garage_queensbury>)
+   5: <none of those>
+var15
+   0: Atom at(<car14>, <accident_location1>)
+   1: Atom at(<car14>, <garage_brighouse>)
+   2: Atom at(<car14>, <garage_halifax>)
+   3: Atom at(<car14>, <garage_huddersfield>)
+   4: Atom at(<car14>, <garage_queensbury>)
+   5: <none of those>
+var16
+   0: Atom at(<car15>, <accident_location0>)
+   1: Atom at(<car15>, <garage_brighouse>)
+   2: Atom at(<car15>, <garage_halifax>)
+   3: Atom at(<car15>, <garage_huddersfield>)
+   4: Atom at(<car15>, <garage_queensbury>)
+   5: <none of those>
+var17
+   0: Atom at(<car16>, <accident_location1>)
+   1: Atom at(<car16>, <garage_brighouse>)
+   2: Atom at(<car16>, <garage_halifax>)
+   3: Atom at(<car16>, <garage_huddersfield>)
+   4: Atom at(<car16>, <garage_queensbury>)
+   5: <none of those>
+var18
+   0: Atom at(<car17>, <accident_location1>)
+   1: Atom at(<car17>, <garage_brighouse>)
+   2: Atom at(<car17>, <garage_halifax>)
+   3: Atom at(<car17>, <garage_huddersfield>)
+   4: Atom at(<car17>, <garage_queensbury>)
+   5: <none of those>
+var19
+   0: Atom at(<car18>, <accident_location0>)
+   1: Atom at(<car18>, <garage_brighouse>)
+   2: Atom at(<car18>, <garage_halifax>)
+   3: Atom at(<car18>, <garage_huddersfield>)
+   4: Atom at(<car18>, <garage_queensbury>)
+   5: <none of those>
+var20
+   0: Atom at(<car19>, <accident_location0>)
+   1: Atom at(<car19>, <garage_brighouse>)
+   2: Atom at(<car19>, <garage_halifax>)
+   3: Atom at(<car19>, <garage_huddersfield>)
+   4: Atom at(<car19>, <garage_queensbury>)
+   5: <none of those>
+var21
+   0: Atom at(<car1>, <accident_location1>)
+   1: Atom at(<car1>, <garage_brighouse>)
+   2: Atom at(<car1>, <garage_halifax>)
+   3: Atom at(<car1>, <garage_huddersfield>)
+   4: Atom at(<car1>, <garage_queensbury>)
+   5: <none of those>
+var22
+   0: Atom at(<car20>, <accident_location3>)
+   1: Atom at(<car20>, <garage_brighouse>)
+   2: Atom at(<car20>, <garage_halifax>)
+   3: Atom at(<car20>, <garage_huddersfield>)
+   4: Atom at(<car20>, <garage_queensbury>)
+   5: <none of those>
+var23
+   0: Atom at(<car21>, <accident_location4>)
+   1: Atom at(<car21>, <garage_brighouse>)
+   2: Atom at(<car21>, <garage_halifax>)
+   3: Atom at(<car21>, <garage_huddersfield>)
+   4: Atom at(<car21>, <garage_queensbury>)
+   5: <none of those>
+var24
+   0: Atom at(<car22>, <accident_location3>)
+   1: Atom at(<car22>, <garage_brighouse>)
+   2: Atom at(<car22>, <garage_halifax>)
+   3: Atom at(<car22>, <garage_huddersfield>)
+   4: Atom at(<car22>, <garage_queensbury>)
+   5: <none of those>
+var25
+   0: Atom at(<car23>, <accident_location0>)
+   1: Atom at(<car23>, <garage_brighouse>)
+   2: Atom at(<car23>, <garage_halifax>)
+   3: Atom at(<car23>, <garage_huddersfield>)
+   4: Atom at(<car23>, <garage_queensbury>)
+   5: <none of those>
+var26
+   0: Atom at(<car24>, <accident_location2>)
+   1: Atom at(<car24>, <garage_brighouse>)
+   2: Atom at(<car24>, <garage_halifax>)
+   3: Atom at(<car24>, <garage_huddersfield>)
+   4: Atom at(<car24>, <garage_queensbury>)
+   5: <none of those>
+var27
+   0: Atom at(<car25>, <accident_location4>)
+   1: Atom at(<car25>, <garage_brighouse>)
+   2: Atom at(<car25>, <garage_halifax>)
+   3: Atom at(<car25>, <garage_huddersfield>)
+   4: Atom at(<car25>, <garage_queensbury>)
+   5: <none of those>
+var28
+   0: Atom at(<car26>, <accident_location1>)
+   1: Atom at(<car26>, <garage_brighouse>)
+   2: Atom at(<car26>, <garage_halifax>)
+   3: Atom at(<car26>, <garage_huddersfield>)
+   4: Atom at(<car26>, <garage_queensbury>)
+   5: <none of those>
+var29
+   0: Atom at(<car27>, <accident_location1>)
+   1: Atom at(<car27>, <garage_brighouse>)
+   2: Atom at(<car27>, <garage_halifax>)
+   3: Atom at(<car27>, <garage_huddersfield>)
+   4: Atom at(<car27>, <garage_queensbury>)
+   5: <none of those>
+var30
+   0: Atom at(<car28>, <accident_location0>)
+   1: Atom at(<car28>, <garage_brighouse>)
+   2: Atom at(<car28>, <garage_halifax>)
+   3: Atom at(<car28>, <garage_huddersfield>)
+   4: Atom at(<car28>, <garage_queensbury>)
+   5: <none of those>
+var31
+   0: Atom at(<car29>, <accident_location2>)
+   1: Atom at(<car29>, <garage_brighouse>)
+   2: Atom at(<car29>, <garage_halifax>)
+   3: Atom at(<car29>, <garage_huddersfield>)
+   4: Atom at(<car29>, <garage_queensbury>)
+   5: <none of those>
+var32
+   0: Atom at(<car2>, <accident_location4>)
+   1: Atom at(<car2>, <garage_brighouse>)
+   2: Atom at(<car2>, <garage_halifax>)
+   3: Atom at(<car2>, <garage_huddersfield>)
+   4: Atom at(<car2>, <garage_queensbury>)
+   5: <none of those>
+var33
+   0: Atom at(<car30>, <accident_location2>)
+   1: Atom at(<car30>, <garage_brighouse>)
+   2: Atom at(<car30>, <garage_halifax>)
+   3: Atom at(<car30>, <garage_huddersfield>)
+   4: Atom at(<car30>, <garage_queensbury>)
+   5: <none of those>
+var34
+   0: Atom at(<car31>, <accident_location4>)
+   1: Atom at(<car31>, <garage_brighouse>)
+   2: Atom at(<car31>, <garage_halifax>)
+   3: Atom at(<car31>, <garage_huddersfield>)
+   4: Atom at(<car31>, <garage_queensbury>)
+   5: <none of those>
+var35
+   0: Atom at(<car32>, <accident_location1>)
+   1: Atom at(<car32>, <garage_brighouse>)
+   2: Atom at(<car32>, <garage_halifax>)
+   3: Atom at(<car32>, <garage_huddersfield>)
+   4: Atom at(<car32>, <garage_queensbury>)
+   5: <none of those>
+var36
+   0: Atom at(<car3>, <accident_location3>)
+   1: Atom at(<car3>, <garage_brighouse>)
+   2: Atom at(<car3>, <garage_halifax>)
+   3: Atom at(<car3>, <garage_huddersfield>)
+   4: Atom at(<car3>, <garage_queensbury>)
+   5: <none of those>
+var37
+   0: Atom at(<car4>, <accident_location1>)
+   1: Atom at(<car4>, <garage_brighouse>)
+   2: Atom at(<car4>, <garage_halifax>)
+   3: Atom at(<car4>, <garage_huddersfield>)
+   4: Atom at(<car4>, <garage_queensbury>)
+   5: <none of those>
+var38
+   0: Atom at(<car5>, <accident_location2>)
+   1: Atom at(<car5>, <garage_brighouse>)
+   2: Atom at(<car5>, <garage_halifax>)
+   3: Atom at(<car5>, <garage_huddersfield>)
+   4: Atom at(<car5>, <garage_queensbury>)
+   5: <none of those>
+var39
+   0: Atom at(<car6>, <accident_location1>)
+   1: Atom at(<car6>, <garage_brighouse>)
+   2: Atom at(<car6>, <garage_halifax>)
+   3: Atom at(<car6>, <garage_huddersfield>)
+   4: Atom at(<car6>, <garage_queensbury>)
+   5: <none of those>
+var40
+   0: Atom at(<car7>, <accident_location0>)
+   1: Atom at(<car7>, <garage_brighouse>)
+   2: Atom at(<car7>, <garage_halifax>)
+   3: Atom at(<car7>, <garage_huddersfield>)
+   4: Atom at(<car7>, <garage_queensbury>)
+   5: <none of those>
+var41
+   0: Atom at(<car8>, <accident_location0>)
+   1: Atom at(<car8>, <garage_brighouse>)
+   2: Atom at(<car8>, <garage_halifax>)
+   3: Atom at(<car8>, <garage_huddersfield>)
+   4: Atom at(<car8>, <garage_queensbury>)
+   5: <none of those>
+var42
+   0: Atom at(<car9>, <accident_location2>)
+   1: Atom at(<car9>, <garage_brighouse>)
+   2: Atom at(<car9>, <garage_halifax>)
+   3: Atom at(<car9>, <garage_huddersfield>)
+   4: Atom at(<car9>, <garage_queensbury>)
+   5: <none of those>
+var43
+   0: Atom at(<acc_victim0>, <accident_location2>)
+   1: Atom at(<acc_victim0>, <brighouse_hospital>)
+   2: Atom at(<acc_victim0>, <halifax_hospital>)
+   3: Atom at(<acc_victim0>, <huddersfield_hospital>)
+   4: <none of those>
+var44
+   0: Atom at(<acc_victim10>, <accident_location2>)
+   1: Atom at(<acc_victim10>, <brighouse_hospital>)
+   2: Atom at(<acc_victim10>, <halifax_hospital>)
+   3: Atom at(<acc_victim10>, <huddersfield_hospital>)
+   4: <none of those>
+var45
+   0: Atom at(<acc_victim11>, <accident_location0>)
+   1: Atom at(<acc_victim11>, <brighouse_hospital>)
+   2: Atom at(<acc_victim11>, <halifax_hospital>)
+   3: Atom at(<acc_victim11>, <huddersfield_hospital>)
+   4: <none of those>
+var46
+   0: Atom at(<acc_victim12>, <accident_location4>)
+   1: Atom at(<acc_victim12>, <brighouse_hospital>)
+   2: Atom at(<acc_victim12>, <halifax_hospital>)
+   3: Atom at(<acc_victim12>, <huddersfield_hospital>)
+   4: <none of those>
+var47
+   0: Atom at(<acc_victim13>, <accident_location1>)
+   1: Atom at(<acc_victim13>, <brighouse_hospital>)
+   2: Atom at(<acc_victim13>, <halifax_hospital>)
+   3: Atom at(<acc_victim13>, <huddersfield_hospital>)
+   4: <none of those>
+var48
+   0: Atom at(<acc_victim14>, <accident_location3>)
+   1: Atom at(<acc_victim14>, <brighouse_hospital>)
+   2: Atom at(<acc_victim14>, <halifax_hospital>)
+   3: Atom at(<acc_victim14>, <huddersfield_hospital>)
+   4: <none of those>
+var49
+   0: Atom at(<acc_victim15>, <accident_location4>)
+   1: Atom at(<acc_victim15>, <brighouse_hospital>)
+   2: Atom at(<acc_victim15>, <halifax_hospital>)
+   3: Atom at(<acc_victim15>, <huddersfield_hospital>)
+   4: <none of those>
+var50
+   0: Atom at(<acc_victim16>, <accident_location4>)
+   1: Atom at(<acc_victim16>, <brighouse_hospital>)
+   2: Atom at(<acc_victim16>, <halifax_hospital>)
+   3: Atom at(<acc_victim16>, <huddersfield_hospital>)
+   4: <none of those>
+var51
+   0: Atom at(<acc_victim17>, <accident_location4>)
+   1: Atom at(<acc_victim17>, <brighouse_hospital>)
+   2: Atom at(<acc_victim17>, <halifax_hospital>)
+   3: Atom at(<acc_victim17>, <huddersfield_hospital>)
+   4: <none of those>
+var52
+   0: Atom at(<acc_victim18>, <accident_location4>)
+   1: Atom at(<acc_victim18>, <brighouse_hospital>)
+   2: Atom at(<acc_victim18>, <halifax_hospital>)
+   3: Atom at(<acc_victim18>, <huddersfield_hospital>)
+   4: <none of those>
+var53
+   0: Atom at(<acc_victim19>, <accident_location2>)
+   1: Atom at(<acc_victim19>, <brighouse_hospital>)
+   2: Atom at(<acc_victim19>, <halifax_hospital>)
+   3: Atom at(<acc_victim19>, <huddersfield_hospital>)
+   4: <none of those>
+var54
+   0: Atom at(<acc_victim1>, <accident_location1>)
+   1: Atom at(<acc_victim1>, <brighouse_hospital>)
+   2: Atom at(<acc_victim1>, <halifax_hospital>)
+   3: Atom at(<acc_victim1>, <huddersfield_hospital>)
+   4: <none of those>
+var55
+   0: Atom at(<acc_victim20>, <accident_location2>)
+   1: Atom at(<acc_victim20>, <brighouse_hospital>)
+   2: Atom at(<acc_victim20>, <halifax_hospital>)
+   3: Atom at(<acc_victim20>, <huddersfield_hospital>)
+   4: <none of those>
+var56
+   0: Atom at(<acc_victim21>, <accident_location2>)
+   1: Atom at(<acc_victim21>, <brighouse_hospital>)
+   2: Atom at(<acc_victim21>, <halifax_hospital>)
+   3: Atom at(<acc_victim21>, <huddersfield_hospital>)
+   4: <none of those>
+var57
+   0: Atom at(<acc_victim22>, <accident_location0>)
+   1: Atom at(<acc_victim22>, <brighouse_hospital>)
+   2: Atom at(<acc_victim22>, <halifax_hospital>)
+   3: Atom at(<acc_victim22>, <huddersfield_hospital>)
+   4: <none of those>
+var58
+   0: Atom at(<acc_victim23>, <accident_location1>)
+   1: Atom at(<acc_victim23>, <brighouse_hospital>)
+   2: Atom at(<acc_victim23>, <halifax_hospital>)
+   3: Atom at(<acc_victim23>, <huddersfield_hospital>)
+   4: <none of those>
+var59
+   0: Atom at(<acc_victim24>, <accident_location3>)
+   1: Atom at(<acc_victim24>, <brighouse_hospital>)
+   2: Atom at(<acc_victim24>, <halifax_hospital>)
+   3: Atom at(<acc_victim24>, <huddersfield_hospital>)
+   4: <none of those>
+var60
+   0: Atom at(<acc_victim25>, <accident_location1>)
+   1: Atom at(<acc_victim25>, <brighouse_hospital>)
+   2: Atom at(<acc_victim25>, <halifax_hospital>)
+   3: Atom at(<acc_victim25>, <huddersfield_hospital>)
+   4: <none of those>
+var61
+   0: Atom at(<acc_victim26>, <accident_location4>)
+   1: Atom at(<acc_victim26>, <brighouse_hospital>)
+   2: Atom at(<acc_victim26>, <halifax_hospital>)
+   3: Atom at(<acc_victim26>, <huddersfield_hospital>)
+   4: <none of those>
+var62
+   0: Atom at(<acc_victim27>, <accident_location1>)
+   1: Atom at(<acc_victim27>, <brighouse_hospital>)
+   2: Atom at(<acc_victim27>, <halifax_hospital>)
+   3: Atom at(<acc_victim27>, <huddersfield_hospital>)
+   4: <none of those>
+var63
+   0: Atom at(<acc_victim28>, <accident_location0>)
+   1: Atom at(<acc_victim28>, <brighouse_hospital>)
+   2: Atom at(<acc_victim28>, <halifax_hospital>)
+   3: Atom at(<acc_victim28>, <huddersfield_hospital>)
+   4: <none of those>
+var64
+   0: Atom at(<acc_victim29>, <accident_location4>)
+   1: Atom at(<acc_victim29>, <brighouse_hospital>)
+   2: Atom at(<acc_victim29>, <halifax_hospital>)
+   3: Atom at(<acc_victim29>, <huddersfield_hospital>)
+   4: <none of those>
+var65
+   0: Atom at(<acc_victim2>, <accident_location0>)
+   1: Atom at(<acc_victim2>, <brighouse_hospital>)
+   2: Atom at(<acc_victim2>, <halifax_hospital>)
+   3: Atom at(<acc_victim2>, <huddersfield_hospital>)
+   4: <none of those>
+var66
+   0: Atom at(<acc_victim30>, <accident_location2>)
+   1: Atom at(<acc_victim30>, <brighouse_hospital>)
+   2: Atom at(<acc_victim30>, <halifax_hospital>)
+   3: Atom at(<acc_victim30>, <huddersfield_hospital>)
+   4: <none of those>
+var67
+   0: Atom at(<acc_victim31>, <accident_location4>)
+   1: Atom at(<acc_victim31>, <brighouse_hospital>)
+   2: Atom at(<acc_victim31>, <halifax_hospital>)
+   3: Atom at(<acc_victim31>, <huddersfield_hospital>)
+   4: <none of those>
+var68
+   0: Atom at(<acc_victim32>, <accident_location3>)
+   1: Atom at(<acc_victim32>, <brighouse_hospital>)
+   2: Atom at(<acc_victim32>, <halifax_hospital>)
+   3: Atom at(<acc_victim32>, <huddersfield_hospital>)
+   4: <none of those>
+var69
+   0: Atom at(<acc_victim33>, <accident_location2>)
+   1: Atom at(<acc_victim33>, <brighouse_hospital>)
+   2: Atom at(<acc_victim33>, <halifax_hospital>)
+   3: Atom at(<acc_victim33>, <huddersfield_hospital>)
+   4: <none of those>
+var70
+   0: Atom at(<acc_victim34>, <accident_location4>)
+   1: Atom at(<acc_victim34>, <brighouse_hospital>)
+   2: Atom at(<acc_victim34>, <halifax_hospital>)
+   3: Atom at(<acc_victim34>, <huddersfield_hospital>)
+   4: <none of those>
+var71
+   0: Atom at(<acc_victim3>, <accident_location0>)
+   1: Atom at(<acc_victim3>, <brighouse_hospital>)
+   2: Atom at(<acc_victim3>, <halifax_hospital>)
+   3: Atom at(<acc_victim3>, <huddersfield_hospital>)
+   4: <none of those>
+var72
+   0: Atom at(<acc_victim4>, <accident_location0>)
+   1: Atom at(<acc_victim4>, <brighouse_hospital>)
+   2: Atom at(<acc_victim4>, <halifax_hospital>)
+   3: Atom at(<acc_victim4>, <huddersfield_hospital>)
+   4: <none of those>
+var73
+   0: Atom at(<acc_victim5>, <accident_location3>)
+   1: Atom at(<acc_victim5>, <brighouse_hospital>)
+   2: Atom at(<acc_victim5>, <halifax_hospital>)
+   3: Atom at(<acc_victim5>, <huddersfield_hospital>)
+   4: <none of those>
+var74
+   0: Atom at(<acc_victim6>, <accident_location4>)
+   1: Atom at(<acc_victim6>, <brighouse_hospital>)
+   2: Atom at(<acc_victim6>, <halifax_hospital>)
+   3: Atom at(<acc_victim6>, <huddersfield_hospital>)
+   4: <none of those>
+var75
+   0: Atom at(<acc_victim7>, <accident_location1>)
+   1: Atom at(<acc_victim7>, <brighouse_hospital>)
+   2: Atom at(<acc_victim7>, <halifax_hospital>)
+   3: Atom at(<acc_victim7>, <huddersfield_hospital>)
+   4: <none of those>
+var76
+   0: Atom at(<acc_victim8>, <accident_location3>)
+   1: Atom at(<acc_victim8>, <brighouse_hospital>)
+   2: Atom at(<acc_victim8>, <halifax_hospital>)
+   3: Atom at(<acc_victim8>, <huddersfield_hospital>)
+   4: <none of those>
+var77
+   0: Atom at(<acc_victim9>, <accident_location4>)
+   1: Atom at(<acc_victim9>, <brighouse_hospital>)
+   2: Atom at(<acc_victim9>, <halifax_hospital>)
+   3: Atom at(<acc_victim9>, <huddersfield_hospital>)
+   4: <none of those>
+var78
+   0: Atom delivered(<acc_victim0>)
+   1: Atom uncertified(<acc_victim0>)
+   2: Atom waiting(<acc_victim0>)
+   3: <none of those>
+var79
+   0: Atom delivered(<acc_victim10>)
+   1: Atom uncertified(<acc_victim10>)
+   2: Atom waiting(<acc_victim10>)
+   3: <none of those>
+var80
+   0: Atom delivered(<acc_victim11>)
+   1: Atom uncertified(<acc_victim11>)
+   2: Atom waiting(<acc_victim11>)
+   3: <none of those>
+var81
+   0: Atom delivered(<acc_victim12>)
+   1: Atom uncertified(<acc_victim12>)
+   2: Atom waiting(<acc_victim12>)
+   3: <none of those>
+var82
+   0: Atom delivered(<acc_victim13>)
+   1: Atom uncertified(<acc_victim13>)
+   2: Atom waiting(<acc_victim13>)
+   3: <none of those>
+var83
+   0: Atom delivered(<acc_victim14>)
+   1: Atom uncertified(<acc_victim14>)
+   2: Atom waiting(<acc_victim14>)
+   3: <none of those>
+var84
+   0: Atom delivered(<acc_victim15>)
+   1: Atom uncertified(<acc_victim15>)
+   2: Atom waiting(<acc_victim15>)
+   3: <none of those>
+var85
+   0: Atom delivered(<acc_victim16>)
+   1: Atom uncertified(<acc_victim16>)
+   2: Atom waiting(<acc_victim16>)
+   3: <none of those>
+var86
+   0: Atom delivered(<acc_victim17>)
+   1: Atom uncertified(<acc_victim17>)
+   2: Atom waiting(<acc_victim17>)
+   3: <none of those>
+var87
+   0: Atom delivered(<acc_victim18>)
+   1: Atom uncertified(<acc_victim18>)
+   2: Atom waiting(<acc_victim18>)
+   3: <none of those>
+var88
+   0: Atom delivered(<acc_victim19>)
+   1: Atom uncertified(<acc_victim19>)
+   2: Atom waiting(<acc_victim19>)
+   3: <none of those>
+var89
+   0: Atom delivered(<acc_victim1>)
+   1: Atom uncertified(<acc_victim1>)
+   2: Atom waiting(<acc_victim1>)
+   3: <none of those>
+var90
+   0: Atom delivered(<acc_victim20>)
+   1: Atom uncertified(<acc_victim20>)
+   2: Atom waiting(<acc_victim20>)
+   3: <none of those>
+var91
+   0: Atom delivered(<acc_victim21>)
+   1: Atom uncertified(<acc_victim21>)
+   2: Atom waiting(<acc_victim21>)
+   3: <none of those>
+var92
+   0: Atom delivered(<acc_victim22>)
+   1: Atom uncertified(<acc_victim22>)
+   2: Atom waiting(<acc_victim22>)
+   3: <none of those>
+var93
+   0: Atom delivered(<acc_victim23>)
+   1: Atom uncertified(<acc_victim23>)
+   2: Atom waiting(<acc_victim23>)
+   3: <none of those>
+var94
+   0: Atom delivered(<acc_victim24>)
+   1: Atom uncertified(<acc_victim24>)
+   2: Atom waiting(<acc_victim24>)
+   3: <none of those>
+var95
+   0: Atom delivered(<acc_victim25>)
+   1: Atom uncertified(<acc_victim25>)
+   2: Atom waiting(<acc_victim25>)
+   3: <none of those>
+var96
+   0: Atom delivered(<acc_victim26>)
+   1: Atom uncertified(<acc_victim26>)
+   2: Atom waiting(<acc_victim26>)
+   3: <none of those>
+var97
+   0: Atom delivered(<acc_victim27>)
+   1: Atom uncertified(<acc_victim27>)
+   2: Atom waiting(<acc_victim27>)
+   3: <none of those>
+var98
+   0: Atom delivered(<acc_victim28>)
+   1: Atom uncertified(<acc_victim28>)
+   2: Atom waiting(<acc_victim28>)
+   3: <none of those>
+var99
+   0: Atom delivered(<acc_victim29>)
+   1: Atom uncertified(<acc_victim29>)
+   2: Atom waiting(<acc_victim29>)
+   3: <none of those>
+var100
+   0: Atom delivered(<acc_victim2>)
+   1: Atom uncertified(<acc_victim2>)
+   2: Atom waiting(<acc_victim2>)
+   3: <none of those>
+var101
+   0: Atom delivered(<acc_victim30>)
+   1: Atom uncertified(<acc_victim30>)
+   2: Atom waiting(<acc_victim30>)
+   3: <none of those>
+var102
+   0: Atom delivered(<acc_victim31>)
+   1: Atom uncertified(<acc_victim31>)
+   2: Atom waiting(<acc_victim31>)
+   3: <none of those>
+var103
+   0: Atom delivered(<acc_victim32>)
+   1: Atom uncertified(<acc_victim32>)
+   2: Atom waiting(<acc_victim32>)
+   3: <none of those>
+var104
+   0: Atom delivered(<acc_victim33>)
+   1: Atom uncertified(<acc_victim33>)
+   2: Atom waiting(<acc_victim33>)
+   3: <none of those>
+var105
+   0: Atom delivered(<acc_victim34>)
+   1: Atom uncertified(<acc_victim34>)
+   2: Atom waiting(<acc_victim34>)
+   3: <none of those>
+var106
+   0: Atom delivered(<acc_victim3>)
+   1: Atom uncertified(<acc_victim3>)
+   2: Atom waiting(<acc_victim3>)
+   3: <none of those>
+var107
+   0: Atom delivered(<acc_victim4>)
+   1: Atom uncertified(<acc_victim4>)
+   2: Atom waiting(<acc_victim4>)
+   3: <none of those>
+var108
+   0: Atom delivered(<acc_victim5>)
+   1: Atom uncertified(<acc_victim5>)
+   2: Atom waiting(<acc_victim5>)
+   3: <none of those>
+var109
+   0: Atom delivered(<acc_victim6>)
+   1: Atom uncertified(<acc_victim6>)
+   2: Atom waiting(<acc_victim6>)
+   3: <none of those>
+var110
+   0: Atom delivered(<acc_victim7>)
+   1: Atom uncertified(<acc_victim7>)
+   2: Atom waiting(<acc_victim7>)
+   3: <none of those>
+var111
+   0: Atom delivered(<acc_victim8>)
+   1: Atom uncertified(<acc_victim8>)
+   2: Atom waiting(<acc_victim8>)
+   3: <none of those>
+var112
+   0: Atom delivered(<acc_victim9>)
+   1: Atom uncertified(<acc_victim9>)
+   2: Atom waiting(<acc_victim9>)
+   3: <none of those>
+var113
+   0: Atom delivered(<car0>)
+   1: Atom uncertified(<car0>)
+   2: Atom waiting(<car0>)
+   3: <none of those>
+var114
+   0: Atom delivered(<car10>)
+   1: Atom uncertified(<car10>)
+   2: Atom waiting(<car10>)
+   3: <none of those>
+var115
+   0: Atom delivered(<car11>)
+   1: Atom uncertified(<car11>)
+   2: Atom waiting(<car11>)
+   3: <none of those>
+var116
+   0: Atom delivered(<car12>)
+   1: Atom uncertified(<car12>)
+   2: Atom waiting(<car12>)
+   3: <none of those>
+var117
+   0: Atom delivered(<car13>)
+   1: Atom uncertified(<car13>)
+   2: Atom waiting(<car13>)
+   3: <none of those>
+var118
+   0: Atom delivered(<car14>)
+   1: Atom uncertified(<car14>)
+   2: Atom waiting(<car14>)
+   3: <none of those>
+var119
+   0: Atom delivered(<car15>)
+   1: Atom uncertified(<car15>)
+   2: Atom waiting(<car15>)
+   3: <none of those>
+var120
+   0: Atom delivered(<car16>)
+   1: Atom uncertified(<car16>)
+   2: Atom waiting(<car16>)
+   3: <none of those>
+var121
+   0: Atom delivered(<car17>)
+   1: Atom uncertified(<car17>)
+   2: Atom waiting(<car17>)
+   3: <none of those>
+var122
+   0: Atom delivered(<car18>)
+   1: Atom uncertified(<car18>)
+   2: Atom waiting(<car18>)
+   3: <none of those>
+var123
+   0: Atom delivered(<car19>)
+   1: Atom uncertified(<car19>)
+   2: Atom waiting(<car19>)
+   3: <none of those>
+var124
+   0: Atom delivered(<car1>)
+   1: Atom uncertified(<car1>)
+   2: Atom waiting(<car1>)
+   3: <none of those>
+var125
+   0: Atom delivered(<car20>)
+   1: Atom uncertified(<car20>)
+   2: Atom waiting(<car20>)
+   3: <none of those>
+var126
+   0: Atom delivered(<car21>)
+   1: Atom uncertified(<car21>)
+   2: Atom waiting(<car21>)
+   3: <none of those>
+var127
+   0: Atom delivered(<car22>)
+   1: Atom uncertified(<car22>)
+   2: Atom waiting(<car22>)
+   3: <none of those>
+var128
+   0: Atom delivered(<car23>)
+   1: Atom uncertified(<car23>)
+   2: Atom waiting(<car23>)
+   3: <none of those>
+var129
+   0: Atom delivered(<car24>)
+   1: Atom uncertified(<car24>)
+   2: Atom waiting(<car24>)
+   3: <none of those>
+var130
+   0: Atom delivered(<car25>)
+   1: Atom uncertified(<car25>)
+   2: Atom waiting(<car25>)
+   3: <none of those>
+var131
+   0: Atom delivered(<car26>)
+   1: Atom uncertified(<car26>)
+   2: Atom waiting(<car26>)
+   3: <none of those>
+var132
+   0: Atom delivered(<car27>)
+   1: Atom uncertified(<car27>)
+   2: Atom waiting(<car27>)
+   3: <none of those>
+var133
+   0: Atom delivered(<car28>)
+   1: Atom uncertified(<car28>)
+   2: Atom waiting(<car28>)
+   3: <none of those>
+var134
+   0: Atom delivered(<car29>)
+   1: Atom uncertified(<car29>)
+   2: Atom waiting(<car29>)
+   3: <none of those>
+var135
+   0: Atom delivered(<car2>)
+   1: Atom uncertified(<car2>)
+   2: Atom waiting(<car2>)
+   3: <none of those>
+var136
+   0: Atom delivered(<car30>)
+   1: Atom uncertified(<car30>)
+   2: Atom waiting(<car30>)
+   3: <none of those>
+var137
+   0: Atom delivered(<car31>)
+   1: Atom uncertified(<car31>)
+   2: Atom waiting(<car31>)
+   3: <none of those>
+var138
+   0: Atom delivered(<car32>)
+   1: Atom uncertified(<car32>)
+   2: Atom waiting(<car32>)
+   3: <none of those>
+var139
+   0: Atom delivered(<car3>)
+   1: Atom uncertified(<car3>)
+   2: Atom waiting(<car3>)
+   3: <none of those>
+var140
+   0: Atom delivered(<car4>)
+   1: Atom uncertified(<car4>)
+   2: Atom waiting(<car4>)
+   3: <none of those>
+var141
+   0: Atom delivered(<car5>)
+   1: Atom uncertified(<car5>)
+   2: Atom waiting(<car5>)
+   3: <none of those>
+var142
+   0: Atom delivered(<car6>)
+   1: Atom uncertified(<car6>)
+   2: Atom waiting(<car6>)
+   3: <none of those>
+var143
+   0: Atom delivered(<car7>)
+   1: Atom uncertified(<car7>)
+   2: Atom waiting(<car7>)
+   3: <none of those>
+var144
+   0: Atom delivered(<car8>)
+   1: Atom uncertified(<car8>)
+   2: Atom waiting(<car8>)
+   3: <none of those>
+var145
+   0: Atom delivered(<car9>)
+   1: Atom uncertified(<car9>)
+   2: Atom waiting(<car9>)
+   3: <none of those>
+var146
+   0: Atom aided(<acc_victim0>)
+   1: <none of those>
+var147
+   0: Atom aided(<acc_victim10>)
+   1: <none of those>
+var148
+   0: Atom aided(<acc_victim11>)
+   1: <none of those>
+var149
+   0: Atom aided(<acc_victim12>)
+   1: <none of those>
+var150
+   0: Atom aided(<acc_victim13>)
+   1: <none of those>
+var151
+   0: Atom aided(<acc_victim14>)
+   1: <none of those>
+var152
+   0: Atom aided(<acc_victim15>)
+   1: <none of those>
+var153
+   0: Atom aided(<acc_victim16>)
+   1: <none of those>
+var154
+   0: Atom aided(<acc_victim17>)
+   1: <none of those>
+var155
+   0: Atom aided(<acc_victim18>)
+   1: <none of those>
+var156
+   0: Atom aided(<acc_victim19>)
+   1: <none of those>
+var157
+   0: Atom aided(<acc_victim1>)
+   1: <none of those>
+var158
+   0: Atom aided(<acc_victim20>)
+   1: <none of those>
+var159
+   0: Atom aided(<acc_victim21>)
+   1: <none of those>
+var160
+   0: Atom aided(<acc_victim22>)
+   1: <none of those>
+var161
+   0: Atom aided(<acc_victim23>)
+   1: <none of those>
+var162
+   0: Atom aided(<acc_victim24>)
+   1: <none of those>
+var163
+   0: Atom aided(<acc_victim25>)
+   1: <none of those>
+var164
+   0: Atom aided(<acc_victim26>)
+   1: <none of those>
+var165
+   0: Atom aided(<acc_victim27>)
+   1: <none of those>
+var166
+   0: Atom aided(<acc_victim28>)
+   1: <none of those>
+var167
+   0: Atom aided(<acc_victim29>)
+   1: <none of those>
+var168
+   0: Atom aided(<acc_victim2>)
+   1: <none of those>
+var169
+   0: Atom aided(<acc_victim30>)
+   1: <none of those>
+var170
+   0: Atom aided(<acc_victim31>)
+   1: <none of those>
+var171
+   0: Atom aided(<acc_victim32>)
+   1: <none of those>
+var172
+   0: Atom aided(<acc_victim33>)
+   1: <none of those>
+var173
+   0: Atom aided(<acc_victim34>)
+   1: <none of those>
+var174
+   0: Atom aided(<acc_victim3>)
+   1: <none of those>
+var175
+   0: Atom aided(<acc_victim4>)
+   1: <none of those>
+var176
+   0: Atom aided(<acc_victim5>)
+   1: <none of those>
+var177
+   0: Atom aided(<acc_victim6>)
+   1: <none of those>
+var178
+   0: Atom aided(<acc_victim7>)
+   1: <none of those>
+var179
+   0: Atom aided(<acc_victim8>)
+   1: <none of those>
+var180
+   0: Atom aided(<acc_victim9>)
+   1: <none of those>
+var181
+   0: Atom available(<fire_brigade0>)
+   1: <none of those>
+var182
+   0: Atom available(<police_car0>)
+   1: <none of those>
+var183
+   0: Atom busy(<ambulance0>)
+   1: <none of those>
+var184
+   0: Atom busy(<tow_truck0>)
+   1: <none of those>
+var185
+   0: Atom busy(<tow_truck1>)
+   1: <none of those>
+var186
+   0: Atom busy(<tow_truck2>)
+   1: <none of those>
+var187
+   0: Atom certified(<acc_victim0>)
+   1: <none of those>
+var188
+   0: Atom certified(<acc_victim10>)
+   1: <none of those>
+var189
+   0: Atom certified(<acc_victim11>)
+   1: <none of those>
+var190
+   0: Atom certified(<acc_victim12>)
+   1: <none of those>
+var191
+   0: Atom certified(<acc_victim13>)
+   1: <none of those>
+var192
+   0: Atom certified(<acc_victim14>)
+   1: <none of those>
+var193
+   0: Atom certified(<acc_victim15>)
+   1: <none of those>
+var194
+   0: Atom certified(<acc_victim16>)
+   1: <none of those>
+var195
+   0: Atom certified(<acc_victim17>)
+   1: <none of those>
+var196
+   0: Atom certified(<acc_victim18>)
+   1: <none of those>
+var197
+   0: Atom certified(<acc_victim19>)
+   1: <none of those>
+var198
+   0: Atom certified(<acc_victim1>)
+   1: <none of those>
+var199
+   0: Atom certified(<acc_victim20>)
+   1: <none of those>
+var200
+   0: Atom certified(<acc_victim21>)
+   1: <none of those>
+var201
+   0: Atom certified(<acc_victim22>)
+   1: <none of those>
+var202
+   0: Atom certified(<acc_victim23>)
+   1: <none of those>
+var203
+   0: Atom certified(<acc_victim24>)
+   1: <none of those>
+var204
+   0: Atom certified(<acc_victim25>)
+   1: <none of those>
+var205
+   0: Atom certified(<acc_victim26>)
+   1: <none of those>
+var206
+   0: Atom certified(<acc_victim27>)
+   1: <none of those>
+var207
+   0: Atom certified(<acc_victim28>)
+   1: <none of those>
+var208
+   0: Atom certified(<acc_victim29>)
+   1: <none of those>
+var209
+   0: Atom certified(<acc_victim2>)
+   1: <none of those>
+var210
+   0: Atom certified(<acc_victim30>)
+   1: <none of those>
+var211
+   0: Atom certified(<acc_victim31>)
+   1: <none of those>
+var212
+   0: Atom certified(<acc_victim32>)
+   1: <none of those>
+var213
+   0: Atom certified(<acc_victim33>)
+   1: <none of those>
+var214
+   0: Atom certified(<acc_victim34>)
+   1: <none of those>
+var215
+   0: Atom certified(<acc_victim3>)
+   1: <none of those>
+var216
+   0: Atom certified(<acc_victim4>)
+   1: <none of those>
+var217
+   0: Atom certified(<acc_victim5>)
+   1: <none of those>
+var218
+   0: Atom certified(<acc_victim6>)
+   1: <none of those>
+var219
+   0: Atom certified(<acc_victim7>)
+   1: <none of those>
+var220
+   0: Atom certified(<acc_victim8>)
+   1: <none of those>
+var221
+   0: Atom certified(<acc_victim9>)
+   1: <none of those>
+var222
+   0: Atom certified(<car0>)
+   1: <none of those>
+var223
+   0: Atom certified(<car10>)
+   1: <none of those>
+var224
+   0: Atom certified(<car11>)
+   1: <none of those>
+var225
+   0: Atom certified(<car12>)
+   1: <none of those>
+var226
+   0: Atom certified(<car13>)
+   1: <none of those>
+var227
+   0: Atom certified(<car14>)
+   1: <none of those>
+var228
+   0: Atom certified(<car15>)
+   1: <none of those>
+var229
+   0: Atom certified(<car16>)
+   1: <none of those>
+var230
+   0: Atom certified(<car17>)
+   1: <none of those>
+var231
+   0: Atom certified(<car18>)
+   1: <none of those>
+var232
+   0: Atom certified(<car19>)
+   1: <none of those>
+var233
+   0: Atom certified(<car1>)
+   1: <none of those>
+var234
+   0: Atom certified(<car20>)
+   1: <none of those>
+var235
+   0: Atom certified(<car21>)
+   1: <none of those>
+var236
+   0: Atom certified(<car22>)
+   1: <none of those>
+var237
+   0: Atom certified(<car23>)
+   1: <none of those>
+var238
+   0: Atom certified(<car24>)
+   1: <none of those>
+var239
+   0: Atom certified(<car25>)
+   1: <none of those>
+var240
+   0: Atom certified(<car26>)
+   1: <none of those>
+var241
+   0: Atom certified(<car27>)
+   1: <none of those>
+var242
+   0: Atom certified(<car28>)
+   1: <none of those>
+var243
+   0: Atom certified(<car29>)
+   1: <none of those>
+var244
+   0: Atom certified(<car2>)
+   1: <none of those>
+var245
+   0: Atom certified(<car30>)
+   1: <none of those>
+var246
+   0: Atom certified(<car31>)
+   1: <none of those>
+var247
+   0: Atom certified(<car32>)
+   1: <none of those>
+var248
+   0: Atom certified(<car3>)
+   1: <none of those>
+var249
+   0: Atom certified(<car4>)
+   1: <none of those>
+var250
+   0: Atom certified(<car5>)
+   1: <none of those>
+var251
+   0: Atom certified(<car6>)
+   1: <none of those>
+var252
+   0: Atom certified(<car7>)
+   1: <none of those>
+var253
+   0: Atom certified(<car8>)
+   1: <none of those>
+var254
+   0: Atom certified(<car9>)
+   1: <none of those>
+var255
+   0: Atom off_fire(<car0>)
+   1: <none of those>
+var256
+   0: Atom off_fire(<car10>)
+   1: <none of those>
+var257
+   0: Atom off_fire(<car11>)
+   1: <none of those>
+var258
+   0: Atom off_fire(<car12>)
+   1: <none of those>
+var259
+   0: Atom off_fire(<car13>)
+   1: <none of those>
+var260
+   0: Atom off_fire(<car14>)
+   1: <none of those>
+var261
+   0: Atom off_fire(<car15>)
+   1: <none of those>
+var262
+   0: Atom off_fire(<car16>)
+   1: <none of those>
+var263
+   0: Atom off_fire(<car17>)
+   1: <none of those>
+var264
+   0: Atom off_fire(<car18>)
+   1: <none of those>
+var265
+   0: Atom off_fire(<car19>)
+   1: <none of those>
+var266
+   0: Atom off_fire(<car1>)
+   1: <none of those>
+var267
+   0: Atom off_fire(<car20>)
+   1: <none of those>
+var268
+   0: Atom off_fire(<car21>)
+   1: <none of those>
+var269
+   0: Atom off_fire(<car22>)
+   1: <none of those>
+var270
+   0: Atom off_fire(<car23>)
+   1: <none of those>
+var271
+   0: Atom off_fire(<car24>)
+   1: <none of those>
+var272
+   0: Atom off_fire(<car25>)
+   1: <none of those>
+var273
+   0: Atom off_fire(<car26>)
+   1: <none of those>
+var274
+   0: Atom off_fire(<car27>)
+   1: <none of those>
+var275
+   0: Atom off_fire(<car28>)
+   1: <none of those>
+var276
+   0: Atom off_fire(<car29>)
+   1: <none of those>
+var277
+   0: Atom off_fire(<car2>)
+   1: <none of those>
+var278
+   0: Atom off_fire(<car30>)
+   1: <none of those>
+var279
+   0: Atom off_fire(<car31>)
+   1: <none of those>
+var280
+   0: Atom off_fire(<car32>)
+   1: <none of those>
+var281
+   0: Atom off_fire(<car3>)
+   1: <none of those>
+var282
+   0: Atom off_fire(<car4>)
+   1: <none of those>
+var283
+   0: Atom off_fire(<car5>)
+   1: <none of those>
+var284
+   0: Atom off_fire(<car6>)
+   1: <none of those>
+var285
+   0: Atom off_fire(<car7>)
+   1: <none of those>
+var286
+   0: Atom off_fire(<car8>)
+   1: <none of those>
+var287
+   0: Atom off_fire(<car9>)
+   1: <none of those>
+var288
+   0: Atom on_fire(<car0>)
+   1: <none of those>
+var289
+   0: Atom on_fire(<car11>)
+   1: <none of those>
+var290
+   0: Atom on_fire(<car14>)
+   1: <none of those>
+var291
+   0: Atom on_fire(<car15>)
+   1: <none of those>
+var292
+   0: Atom on_fire(<car17>)
+   1: <none of those>
+var293
+   0: Atom on_fire(<car19>)
+   1: <none of those>
+var294
+   0: Atom on_fire(<car1>)
+   1: <none of those>
+var295
+   0: Atom on_fire(<car21>)
+   1: <none of those>
+var296
+   0: Atom on_fire(<car22>)
+   1: <none of those>
+var297
+   0: Atom on_fire(<car23>)
+   1: <none of those>
+var298
+   0: Atom on_fire(<car24>)
+   1: <none of those>
+var299
+   0: Atom on_fire(<car25>)
+   1: <none of those>
+var300
+   0: Atom on_fire(<car26>)
+   1: <none of those>
+var301
+   0: Atom on_fire(<car27>)
+   1: <none of those>
+var302
+   0: Atom on_fire(<car28>)
+   1: <none of those>
+var303
+   0: Atom on_fire(<car29>)
+   1: <none of those>
+var304
+   0: Atom on_fire(<car32>)
+   1: <none of those>
+var305
+   0: Atom on_fire(<car7>)
+   1: <none of those>
+var306
+   0: Atom on_fire(<car8>)
+   1: <none of those>
+var307
+   0: Atom trapped(<acc_victim0>)
+   1: <none of those>
+var308
+   0: Atom trapped(<acc_victim10>)
+   1: <none of those>
+var309
+   0: Atom trapped(<acc_victim13>)
+   1: <none of those>
+var310
+   0: Atom trapped(<acc_victim19>)
+   1: <none of those>
+var311
+   0: Atom trapped(<acc_victim1>)
+   1: <none of those>
+var312
+   0: Atom trapped(<acc_victim20>)
+   1: <none of those>
+var313
+   0: Atom trapped(<acc_victim24>)
+   1: <none of those>
+var314
+   0: Atom trapped(<acc_victim31>)
+   1: <none of those>
+var315
+   0: Atom trapped(<acc_victim3>)
+   1: <none of those>
+var316
+   0: Atom trapped(<acc_victim4>)
+   1: <none of those>
+var317
+   0: Atom trapped(<acc_victim6>)
+   1: <none of those>
+var318
+   0: Atom trapped(<acc_victim9>)
+   1: <none of those>
+var319
+   0: Atom untrapped(<acc_victim0>)
+   1: <none of those>
+var320
+   0: Atom untrapped(<acc_victim10>)
+   1: <none of those>
+var321
+   0: Atom untrapped(<acc_victim11>)
+   1: <none of those>
+var322
+   0: Atom untrapped(<acc_victim12>)
+   1: <none of those>
+var323
+   0: Atom untrapped(<acc_victim13>)
+   1: <none of those>
+var324
+   0: Atom untrapped(<acc_victim14>)
+   1: <none of those>
+var325
+   0: Atom untrapped(<acc_victim15>)
+   1: <none of those>
+var326
+   0: Atom untrapped(<acc_victim16>)
+   1: <none of those>
+var327
+   0: Atom untrapped(<acc_victim17>)
+   1: <none of those>
+var328
+   0: Atom untrapped(<acc_victim18>)
+   1: <none of those>
+var329
+   0: Atom untrapped(<acc_victim19>)
+   1: <none of those>
+var330
+   0: Atom untrapped(<acc_victim1>)
+   1: <none of those>
+var331
+   0: Atom untrapped(<acc_victim20>)
+   1: <none of those>
+var332
+   0: Atom untrapped(<acc_victim21>)
+   1: <none of those>
+var333
+   0: Atom untrapped(<acc_victim22>)
+   1: <none of those>
+var334
+   0: Atom untrapped(<acc_victim23>)
+   1: <none of those>
+var335
+   0: Atom untrapped(<acc_victim24>)
+   1: <none of those>
+var336
+   0: Atom untrapped(<acc_victim25>)
+   1: <none of those>
+var337
+   0: Atom untrapped(<acc_victim26>)
+   1: <none of those>
+var338
+   0: Atom untrapped(<acc_victim27>)
+   1: <none of those>
+var339
+   0: Atom untrapped(<acc_victim28>)
+   1: <none of those>
+var340
+   0: Atom untrapped(<acc_victim29>)
+   1: <none of those>
+var341
+   0: Atom untrapped(<acc_victim2>)
+   1: <none of those>
+var342
+   0: Atom untrapped(<acc_victim30>)
+   1: <none of those>
+var343
+   0: Atom untrapped(<acc_victim31>)
+   1: <none of those>
+var344
+   0: Atom untrapped(<acc_victim32>)
+   1: <none of those>
+var345
+   0: Atom untrapped(<acc_victim33>)
+   1: <none of those>
+var346
+   0: Atom untrapped(<acc_victim34>)
+   1: <none of those>
+var347
+   0: Atom untrapped(<acc_victim3>)
+   1: <none of those>
+var348
+   0: Atom untrapped(<acc_victim4>)
+   1: <none of those>
+var349
+   0: Atom untrapped(<acc_victim5>)
+   1: <none of those>
+var350
+   0: Atom untrapped(<acc_victim6>)
+   1: <none of those>
+var351
+   0: Atom untrapped(<acc_victim7>)
+   1: <none of those>
+var352
+   0: Atom untrapped(<acc_victim8>)
+   1: <none of those>
+var353
+   0: Atom untrapped(<acc_victim9>)
+   1: <none of those>
+var354
+   -2: PNE derived!1(<ainley_halifax>, <tow_truck1>)
+   -2: PNE derived!1(<ainley_halifax>, <tow_truck2>)
+   -2: PNE derived!1(<ainley_halifax>, <fire_brigade0>)
+   -2: PNE derived!1(<ainley_halifax>, <tow_truck0>)
+   -2: PNE derived!1(<hud_brigh>, <police_car0>)
+   -2: PNE derived!7()
+   -2: PNE derived!1(<a629>, <ambulance0>)
+var355
+   -2: PNE derived!1(<a629>, <fire_brigade0>)
+   -2: PNE derived!1(<a629>, <tow_truck0>)
+   -2: PNE derived!1(<a629>, <tow_truck1>)
+   -2: PNE derived!1(<a629>, <tow_truck2>)
+var356
+   -2: PNE derived!1(<a629>, <police_car0>)
+var357
+   -2: PNE derived!1(<brigh_baliff>, <tow_truck0>)
+   -2: PNE derived!1(<brigh_baliff>, <tow_truck1>)
+   -2: PNE derived!1(<baliff_halifax>, <ambulance0>)
+   -2: PNE derived!1(<brigh_queen>, <tow_truck2>)
+   -2: PNE derived!1(<brigh_queen>, <fire_brigade0>)
+   -2: PNE derived!1(<brigh_queen>, <tow_truck0>)
+   -2: PNE derived!1(<brigh_queen>, <tow_truck1>)
+   -2: PNE derived!1(<brigh_baliff>, <tow_truck2>)
+   -2: PNE derived!1(<brigh_baliff>, <fire_brigade0>)
+   -2: PNE derived!1(<ainley_greet>, <ambulance0>)
+   -2: PNE derived!1(<ainley_brigh>, <ambulance0>)
+   -2: PNE derived!2()
+   -2: PNE derived!1(<bradley_ainley>, <ambulance0>)
+   -2: PNE derived!1(<hud_bradley>, <ambulance0>)
+var358
+   -2: PNE derived!1(<baliff_halifax>, <fire_brigade0>)
+   -2: PNE derived!1(<baliff_halifax>, <tow_truck2>)
+   -2: PNE derived!1(<baliff_halifax>, <tow_truck1>)
+   -2: PNE derived!1(<baliff_halifax>, <tow_truck0>)
+   -2: PNE derived!1(<ainley_brigh>, <tow_truck2>)
+   -2: PNE derived!1(<ainley_greet>, <tow_truck1>)
+   -2: PNE derived!1(<ainley_greet>, <tow_truck2>)
+   -2: PNE derived!1(<ainley_greet>, <tow_truck0>)
+   -2: PNE derived!1(<ainley_brigh>, <tow_truck1>)
+   -2: PNE derived!1(<ainley_brigh>, <tow_truck0>)
+   -2: PNE derived!1(<ainley_greet>, <fire_brigade0>)
+   -2: PNE derived!1(<ainley_brigh>, <fire_brigade0>)
+   -2: PNE derived!1(<hud_bradley>, <tow_truck0>)
+   -2: PNE derived!1(<bradley_ainley>, <tow_truck0>)
+   -2: PNE derived!1(<bradley_ainley>, <tow_truck2>)
+   -2: PNE derived!1(<bradley_ainley>, <tow_truck1>)
+   -2: PNE derived!1(<bradley_ainley>, <fire_brigade0>)
+   -2: PNE derived!1(<hud_bradley>, <tow_truck2>)
+   -2: PNE derived!1(<hud_bradley>, <tow_truck1>)
+   -2: PNE derived!1(<hud_bradley>, <fire_brigade0>)
+var359
+   -2: PNE derived!1(<baliff_halifax>, <police_car0>)
+   -2: PNE derived!1(<ainley_greet>, <police_car0>)
+   -2: PNE derived!1(<ainley_brigh>, <police_car0>)
+   -2: PNE derived!1(<hud_bradley>, <police_car0>)
+   -2: PNE derived!1(<bradley_ainley>, <police_car0>)
+var360
+   -2: PNE derived!1(<ainley_halifax>, <ambulance0>)
+   -2: PNE derived!10()
+var361
+   -2: PNE derived!1(<ainley_halifax>, <police_car0>)
+var362
+   -2: PNE derived!1(<brigh_queen>, <ambulance0>)
+   -2: PNE derived!1(<brigh_baliff>, <ambulance0>)
+   -2: PNE derived!9()
+var363
+   -2: PNE derived!1(<brigh_baliff>, <police_car0>)
+   -2: PNE derived!1(<brigh_queen>, <police_car0>)
+var364
+   -2: PNE derived!8()
+   -2: PNE derived!1(<queen_halifax>, <ambulance0>)
+   -2: PNE derived!1(<greet_halifax>, <ambulance0>)
+var365
+   -2: PNE derived!1(<greet_halifax>, <tow_truck0>)
+   -2: PNE derived!1(<greet_halifax>, <fire_brigade0>)
+   -2: PNE derived!1(<queen_halifax>, <tow_truck1>)
+   -2: PNE derived!1(<queen_halifax>, <tow_truck0>)
+   -2: PNE derived!1(<queen_halifax>, <tow_truck2>)
+   -2: PNE derived!1(<queen_halifax>, <fire_brigade0>)
+   -2: PNE derived!1(<greet_halifax>, <tow_truck1>)
+   -2: PNE derived!1(<greet_halifax>, <tow_truck2>)
+var366
+   -2: PNE derived!1(<greet_halifax>, <police_car0>)
+   -2: PNE derived!1(<queen_halifax>, <police_car0>)
+var367
+   -2: PNE derived!6()
+   -2: PNE derived!1(<hud_brigh>, <ambulance0>)
+var368
+   -2: PNE derived!1(<hud_brigh>, <tow_truck0>)
+   -2: PNE derived!1(<hud_brigh>, <fire_brigade0>)
+   -2: PNE derived!1(<hud_brigh>, <tow_truck2>)
+   -2: PNE derived!1(<hud_brigh>, <tow_truck1>)
+var369
+   -2: PNE derived!11()
+var370
+   -2: PNE derived!12()
+var371
+   -2: PNE derived!3()
+var372
+   -2: PNE derived!4()
+var373
+   -2: PNE derived!5()

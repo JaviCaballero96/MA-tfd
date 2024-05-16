@@ -1,0 +1,2960 @@
+begin_groups
+558
+group
+36
+0 0 available 1 <ambulance0> 
+0 1 loaded 2 <acc_victim0> <ambulance0> 
+0 12 loaded 2 <acc_victim1> <ambulance0> 
+0 23 loaded 2 <acc_victim2> <ambulance0> 
+0 29 loaded 2 <acc_victim3> <ambulance0> 
+0 30 loaded 2 <acc_victim4> <ambulance0> 
+0 31 loaded 2 <acc_victim5> <ambulance0> 
+0 32 loaded 2 <acc_victim6> <ambulance0> 
+0 33 loaded 2 <acc_victim7> <ambulance0> 
+0 34 loaded 2 <acc_victim8> <ambulance0> 
+0 35 loaded 2 <acc_victim9> <ambulance0> 
+0 2 loaded 2 <acc_victim10> <ambulance0> 
+0 3 loaded 2 <acc_victim11> <ambulance0> 
+0 4 loaded 2 <acc_victim12> <ambulance0> 
+0 5 loaded 2 <acc_victim13> <ambulance0> 
+0 6 loaded 2 <acc_victim14> <ambulance0> 
+0 7 loaded 2 <acc_victim15> <ambulance0> 
+0 8 loaded 2 <acc_victim16> <ambulance0> 
+0 9 loaded 2 <acc_victim17> <ambulance0> 
+0 10 loaded 2 <acc_victim18> <ambulance0> 
+0 11 loaded 2 <acc_victim19> <ambulance0> 
+0 13 loaded 2 <acc_victim20> <ambulance0> 
+0 14 loaded 2 <acc_victim21> <ambulance0> 
+0 15 loaded 2 <acc_victim22> <ambulance0> 
+0 16 loaded 2 <acc_victim23> <ambulance0> 
+0 17 loaded 2 <acc_victim24> <ambulance0> 
+0 18 loaded 2 <acc_victim25> <ambulance0> 
+0 19 loaded 2 <acc_victim26> <ambulance0> 
+0 20 loaded 2 <acc_victim27> <ambulance0> 
+0 21 loaded 2 <acc_victim28> <ambulance0> 
+0 22 loaded 2 <acc_victim29> <ambulance0> 
+0 24 loaded 2 <acc_victim30> <ambulance0> 
+0 25 loaded 2 <acc_victim31> <ambulance0> 
+0 26 loaded 2 <acc_victim32> <ambulance0> 
+0 27 loaded 2 <acc_victim33> <ambulance0> 
+0 28 loaded 2 <acc_victim34> <ambulance0> 
+group
+1
+181 0 available 1 <fire_brigade0> 
+group
+1
+182 0 available 1 <police_car0> 
+group
+34
+1 0 available 1 <tow_truck0> 
+1 1 loaded 2 <car0> <tow_truck0> 
+1 12 loaded 2 <car1> <tow_truck0> 
+1 23 loaded 2 <car2> <tow_truck0> 
+1 27 loaded 2 <car3> <tow_truck0> 
+1 28 loaded 2 <car4> <tow_truck0> 
+1 29 loaded 2 <car5> <tow_truck0> 
+1 30 loaded 2 <car6> <tow_truck0> 
+1 31 loaded 2 <car7> <tow_truck0> 
+1 32 loaded 2 <car8> <tow_truck0> 
+1 33 loaded 2 <car9> <tow_truck0> 
+1 2 loaded 2 <car10> <tow_truck0> 
+1 3 loaded 2 <car11> <tow_truck0> 
+1 4 loaded 2 <car12> <tow_truck0> 
+1 5 loaded 2 <car13> <tow_truck0> 
+1 6 loaded 2 <car14> <tow_truck0> 
+1 7 loaded 2 <car15> <tow_truck0> 
+1 8 loaded 2 <car16> <tow_truck0> 
+1 9 loaded 2 <car17> <tow_truck0> 
+1 10 loaded 2 <car18> <tow_truck0> 
+1 11 loaded 2 <car19> <tow_truck0> 
+1 13 loaded 2 <car20> <tow_truck0> 
+1 14 loaded 2 <car21> <tow_truck0> 
+1 15 loaded 2 <car22> <tow_truck0> 
+1 16 loaded 2 <car23> <tow_truck0> 
+1 17 loaded 2 <car24> <tow_truck0> 
+1 18 loaded 2 <car25> <tow_truck0> 
+1 19 loaded 2 <car26> <tow_truck0> 
+1 20 loaded 2 <car27> <tow_truck0> 
+1 21 loaded 2 <car28> <tow_truck0> 
+1 22 loaded 2 <car29> <tow_truck0> 
+1 24 loaded 2 <car30> <tow_truck0> 
+1 25 loaded 2 <car31> <tow_truck0> 
+1 26 loaded 2 <car32> <tow_truck0> 
+group
+34
+2 0 available 1 <tow_truck1> 
+2 1 loaded 2 <car0> <tow_truck1> 
+2 12 loaded 2 <car1> <tow_truck1> 
+2 23 loaded 2 <car2> <tow_truck1> 
+2 27 loaded 2 <car3> <tow_truck1> 
+2 28 loaded 2 <car4> <tow_truck1> 
+2 29 loaded 2 <car5> <tow_truck1> 
+2 30 loaded 2 <car6> <tow_truck1> 
+2 31 loaded 2 <car7> <tow_truck1> 
+2 32 loaded 2 <car8> <tow_truck1> 
+2 33 loaded 2 <car9> <tow_truck1> 
+2 2 loaded 2 <car10> <tow_truck1> 
+2 3 loaded 2 <car11> <tow_truck1> 
+2 4 loaded 2 <car12> <tow_truck1> 
+2 5 loaded 2 <car13> <tow_truck1> 
+2 6 loaded 2 <car14> <tow_truck1> 
+2 7 loaded 2 <car15> <tow_truck1> 
+2 8 loaded 2 <car16> <tow_truck1> 
+2 9 loaded 2 <car17> <tow_truck1> 
+2 10 loaded 2 <car18> <tow_truck1> 
+2 11 loaded 2 <car19> <tow_truck1> 
+2 13 loaded 2 <car20> <tow_truck1> 
+2 14 loaded 2 <car21> <tow_truck1> 
+2 15 loaded 2 <car22> <tow_truck1> 
+2 16 loaded 2 <car23> <tow_truck1> 
+2 17 loaded 2 <car24> <tow_truck1> 
+2 18 loaded 2 <car25> <tow_truck1> 
+2 19 loaded 2 <car26> <tow_truck1> 
+2 20 loaded 2 <car27> <tow_truck1> 
+2 21 loaded 2 <car28> <tow_truck1> 
+2 22 loaded 2 <car29> <tow_truck1> 
+2 24 loaded 2 <car30> <tow_truck1> 
+2 25 loaded 2 <car31> <tow_truck1> 
+2 26 loaded 2 <car32> <tow_truck1> 
+group
+34
+3 0 available 1 <tow_truck2> 
+3 1 loaded 2 <car0> <tow_truck2> 
+3 12 loaded 2 <car1> <tow_truck2> 
+3 23 loaded 2 <car2> <tow_truck2> 
+3 27 loaded 2 <car3> <tow_truck2> 
+3 28 loaded 2 <car4> <tow_truck2> 
+3 29 loaded 2 <car5> <tow_truck2> 
+3 30 loaded 2 <car6> <tow_truck2> 
+3 31 loaded 2 <car7> <tow_truck2> 
+3 32 loaded 2 <car8> <tow_truck2> 
+3 33 loaded 2 <car9> <tow_truck2> 
+3 2 loaded 2 <car10> <tow_truck2> 
+3 3 loaded 2 <car11> <tow_truck2> 
+3 4 loaded 2 <car12> <tow_truck2> 
+3 5 loaded 2 <car13> <tow_truck2> 
+3 6 loaded 2 <car14> <tow_truck2> 
+3 7 loaded 2 <car15> <tow_truck2> 
+3 8 loaded 2 <car16> <tow_truck2> 
+3 9 loaded 2 <car17> <tow_truck2> 
+3 10 loaded 2 <car18> <tow_truck2> 
+3 11 loaded 2 <car19> <tow_truck2> 
+3 13 loaded 2 <car20> <tow_truck2> 
+3 14 loaded 2 <car21> <tow_truck2> 
+3 15 loaded 2 <car22> <tow_truck2> 
+3 16 loaded 2 <car23> <tow_truck2> 
+3 17 loaded 2 <car24> <tow_truck2> 
+3 18 loaded 2 <car25> <tow_truck2> 
+3 19 loaded 2 <car26> <tow_truck2> 
+3 20 loaded 2 <car27> <tow_truck2> 
+3 21 loaded 2 <car28> <tow_truck2> 
+3 22 loaded 2 <car29> <tow_truck2> 
+3 24 loaded 2 <car30> <tow_truck2> 
+3 25 loaded 2 <car31> <tow_truck2> 
+3 26 loaded 2 <car32> <tow_truck2> 
+group
+3
+187 0 certified 1 <acc_victim0> 
+78 0 delivered 1 <acc_victim0> 
+78 1 uncertified 1 <acc_victim0> 
+group
+2
+187 0 certified 1 <acc_victim0> 
+78 1 uncertified 1 <acc_victim0> 
+group
+3
+188 0 certified 1 <acc_victim10> 
+79 0 delivered 1 <acc_victim10> 
+79 1 uncertified 1 <acc_victim10> 
+group
+2
+188 0 certified 1 <acc_victim10> 
+79 1 uncertified 1 <acc_victim10> 
+group
+3
+189 0 certified 1 <acc_victim11> 
+80 0 delivered 1 <acc_victim11> 
+80 1 uncertified 1 <acc_victim11> 
+group
+2
+189 0 certified 1 <acc_victim11> 
+80 1 uncertified 1 <acc_victim11> 
+group
+3
+190 0 certified 1 <acc_victim12> 
+81 0 delivered 1 <acc_victim12> 
+81 1 uncertified 1 <acc_victim12> 
+group
+2
+190 0 certified 1 <acc_victim12> 
+81 1 uncertified 1 <acc_victim12> 
+group
+3
+191 0 certified 1 <acc_victim13> 
+82 0 delivered 1 <acc_victim13> 
+82 1 uncertified 1 <acc_victim13> 
+group
+2
+191 0 certified 1 <acc_victim13> 
+82 1 uncertified 1 <acc_victim13> 
+group
+3
+192 0 certified 1 <acc_victim14> 
+83 0 delivered 1 <acc_victim14> 
+83 1 uncertified 1 <acc_victim14> 
+group
+2
+192 0 certified 1 <acc_victim14> 
+83 1 uncertified 1 <acc_victim14> 
+group
+3
+193 0 certified 1 <acc_victim15> 
+84 0 delivered 1 <acc_victim15> 
+84 1 uncertified 1 <acc_victim15> 
+group
+2
+193 0 certified 1 <acc_victim15> 
+84 1 uncertified 1 <acc_victim15> 
+group
+3
+194 0 certified 1 <acc_victim16> 
+85 0 delivered 1 <acc_victim16> 
+85 1 uncertified 1 <acc_victim16> 
+group
+2
+194 0 certified 1 <acc_victim16> 
+85 1 uncertified 1 <acc_victim16> 
+group
+3
+195 0 certified 1 <acc_victim17> 
+86 0 delivered 1 <acc_victim17> 
+86 1 uncertified 1 <acc_victim17> 
+group
+2
+195 0 certified 1 <acc_victim17> 
+86 1 uncertified 1 <acc_victim17> 
+group
+3
+196 0 certified 1 <acc_victim18> 
+87 0 delivered 1 <acc_victim18> 
+87 1 uncertified 1 <acc_victim18> 
+group
+2
+196 0 certified 1 <acc_victim18> 
+87 1 uncertified 1 <acc_victim18> 
+group
+3
+197 0 certified 1 <acc_victim19> 
+88 0 delivered 1 <acc_victim19> 
+88 1 uncertified 1 <acc_victim19> 
+group
+2
+197 0 certified 1 <acc_victim19> 
+88 1 uncertified 1 <acc_victim19> 
+group
+3
+198 0 certified 1 <acc_victim1> 
+89 0 delivered 1 <acc_victim1> 
+89 1 uncertified 1 <acc_victim1> 
+group
+2
+198 0 certified 1 <acc_victim1> 
+89 1 uncertified 1 <acc_victim1> 
+group
+3
+199 0 certified 1 <acc_victim20> 
+90 0 delivered 1 <acc_victim20> 
+90 1 uncertified 1 <acc_victim20> 
+group
+2
+199 0 certified 1 <acc_victim20> 
+90 1 uncertified 1 <acc_victim20> 
+group
+3
+200 0 certified 1 <acc_victim21> 
+91 0 delivered 1 <acc_victim21> 
+91 1 uncertified 1 <acc_victim21> 
+group
+2
+200 0 certified 1 <acc_victim21> 
+91 1 uncertified 1 <acc_victim21> 
+group
+3
+201 0 certified 1 <acc_victim22> 
+92 0 delivered 1 <acc_victim22> 
+92 1 uncertified 1 <acc_victim22> 
+group
+2
+201 0 certified 1 <acc_victim22> 
+92 1 uncertified 1 <acc_victim22> 
+group
+3
+202 0 certified 1 <acc_victim23> 
+93 0 delivered 1 <acc_victim23> 
+93 1 uncertified 1 <acc_victim23> 
+group
+2
+202 0 certified 1 <acc_victim23> 
+93 1 uncertified 1 <acc_victim23> 
+group
+3
+203 0 certified 1 <acc_victim24> 
+94 0 delivered 1 <acc_victim24> 
+94 1 uncertified 1 <acc_victim24> 
+group
+2
+203 0 certified 1 <acc_victim24> 
+94 1 uncertified 1 <acc_victim24> 
+group
+3
+204 0 certified 1 <acc_victim25> 
+95 0 delivered 1 <acc_victim25> 
+95 1 uncertified 1 <acc_victim25> 
+group
+2
+204 0 certified 1 <acc_victim25> 
+95 1 uncertified 1 <acc_victim25> 
+group
+3
+205 0 certified 1 <acc_victim26> 
+96 0 delivered 1 <acc_victim26> 
+96 1 uncertified 1 <acc_victim26> 
+group
+2
+205 0 certified 1 <acc_victim26> 
+96 1 uncertified 1 <acc_victim26> 
+group
+3
+206 0 certified 1 <acc_victim27> 
+97 0 delivered 1 <acc_victim27> 
+97 1 uncertified 1 <acc_victim27> 
+group
+2
+206 0 certified 1 <acc_victim27> 
+97 1 uncertified 1 <acc_victim27> 
+group
+3
+207 0 certified 1 <acc_victim28> 
+98 0 delivered 1 <acc_victim28> 
+98 1 uncertified 1 <acc_victim28> 
+group
+2
+207 0 certified 1 <acc_victim28> 
+98 1 uncertified 1 <acc_victim28> 
+group
+3
+208 0 certified 1 <acc_victim29> 
+99 0 delivered 1 <acc_victim29> 
+99 1 uncertified 1 <acc_victim29> 
+group
+2
+208 0 certified 1 <acc_victim29> 
+99 1 uncertified 1 <acc_victim29> 
+group
+3
+209 0 certified 1 <acc_victim2> 
+100 0 delivered 1 <acc_victim2> 
+100 1 uncertified 1 <acc_victim2> 
+group
+2
+209 0 certified 1 <acc_victim2> 
+100 1 uncertified 1 <acc_victim2> 
+group
+3
+210 0 certified 1 <acc_victim30> 
+101 0 delivered 1 <acc_victim30> 
+101 1 uncertified 1 <acc_victim30> 
+group
+2
+210 0 certified 1 <acc_victim30> 
+101 1 uncertified 1 <acc_victim30> 
+group
+3
+211 0 certified 1 <acc_victim31> 
+102 0 delivered 1 <acc_victim31> 
+102 1 uncertified 1 <acc_victim31> 
+group
+2
+211 0 certified 1 <acc_victim31> 
+102 1 uncertified 1 <acc_victim31> 
+group
+3
+212 0 certified 1 <acc_victim32> 
+103 0 delivered 1 <acc_victim32> 
+103 1 uncertified 1 <acc_victim32> 
+group
+2
+212 0 certified 1 <acc_victim32> 
+103 1 uncertified 1 <acc_victim32> 
+group
+3
+213 0 certified 1 <acc_victim33> 
+104 0 delivered 1 <acc_victim33> 
+104 1 uncertified 1 <acc_victim33> 
+group
+2
+213 0 certified 1 <acc_victim33> 
+104 1 uncertified 1 <acc_victim33> 
+group
+3
+214 0 certified 1 <acc_victim34> 
+105 0 delivered 1 <acc_victim34> 
+105 1 uncertified 1 <acc_victim34> 
+group
+2
+214 0 certified 1 <acc_victim34> 
+105 1 uncertified 1 <acc_victim34> 
+group
+3
+215 0 certified 1 <acc_victim3> 
+106 0 delivered 1 <acc_victim3> 
+106 1 uncertified 1 <acc_victim3> 
+group
+2
+215 0 certified 1 <acc_victim3> 
+106 1 uncertified 1 <acc_victim3> 
+group
+3
+216 0 certified 1 <acc_victim4> 
+107 0 delivered 1 <acc_victim4> 
+107 1 uncertified 1 <acc_victim4> 
+group
+2
+216 0 certified 1 <acc_victim4> 
+107 1 uncertified 1 <acc_victim4> 
+group
+3
+217 0 certified 1 <acc_victim5> 
+108 0 delivered 1 <acc_victim5> 
+108 1 uncertified 1 <acc_victim5> 
+group
+2
+217 0 certified 1 <acc_victim5> 
+108 1 uncertified 1 <acc_victim5> 
+group
+3
+218 0 certified 1 <acc_victim6> 
+109 0 delivered 1 <acc_victim6> 
+109 1 uncertified 1 <acc_victim6> 
+group
+2
+218 0 certified 1 <acc_victim6> 
+109 1 uncertified 1 <acc_victim6> 
+group
+3
+219 0 certified 1 <acc_victim7> 
+110 0 delivered 1 <acc_victim7> 
+110 1 uncertified 1 <acc_victim7> 
+group
+2
+219 0 certified 1 <acc_victim7> 
+110 1 uncertified 1 <acc_victim7> 
+group
+3
+220 0 certified 1 <acc_victim8> 
+111 0 delivered 1 <acc_victim8> 
+111 1 uncertified 1 <acc_victim8> 
+group
+2
+220 0 certified 1 <acc_victim8> 
+111 1 uncertified 1 <acc_victim8> 
+group
+3
+221 0 certified 1 <acc_victim9> 
+112 0 delivered 1 <acc_victim9> 
+112 1 uncertified 1 <acc_victim9> 
+group
+2
+221 0 certified 1 <acc_victim9> 
+112 1 uncertified 1 <acc_victim9> 
+group
+3
+222 0 certified 1 <car0> 
+113 0 delivered 1 <car0> 
+113 1 uncertified 1 <car0> 
+group
+2
+222 0 certified 1 <car0> 
+113 1 uncertified 1 <car0> 
+group
+3
+223 0 certified 1 <car10> 
+114 0 delivered 1 <car10> 
+114 1 uncertified 1 <car10> 
+group
+2
+223 0 certified 1 <car10> 
+114 1 uncertified 1 <car10> 
+group
+3
+224 0 certified 1 <car11> 
+115 0 delivered 1 <car11> 
+115 1 uncertified 1 <car11> 
+group
+2
+224 0 certified 1 <car11> 
+115 1 uncertified 1 <car11> 
+group
+3
+225 0 certified 1 <car12> 
+116 0 delivered 1 <car12> 
+116 1 uncertified 1 <car12> 
+group
+2
+225 0 certified 1 <car12> 
+116 1 uncertified 1 <car12> 
+group
+3
+226 0 certified 1 <car13> 
+117 0 delivered 1 <car13> 
+117 1 uncertified 1 <car13> 
+group
+2
+226 0 certified 1 <car13> 
+117 1 uncertified 1 <car13> 
+group
+3
+227 0 certified 1 <car14> 
+118 0 delivered 1 <car14> 
+118 1 uncertified 1 <car14> 
+group
+2
+227 0 certified 1 <car14> 
+118 1 uncertified 1 <car14> 
+group
+3
+228 0 certified 1 <car15> 
+119 0 delivered 1 <car15> 
+119 1 uncertified 1 <car15> 
+group
+2
+228 0 certified 1 <car15> 
+119 1 uncertified 1 <car15> 
+group
+3
+229 0 certified 1 <car16> 
+120 0 delivered 1 <car16> 
+120 1 uncertified 1 <car16> 
+group
+2
+229 0 certified 1 <car16> 
+120 1 uncertified 1 <car16> 
+group
+3
+230 0 certified 1 <car17> 
+121 0 delivered 1 <car17> 
+121 1 uncertified 1 <car17> 
+group
+2
+230 0 certified 1 <car17> 
+121 1 uncertified 1 <car17> 
+group
+3
+231 0 certified 1 <car18> 
+122 0 delivered 1 <car18> 
+122 1 uncertified 1 <car18> 
+group
+2
+231 0 certified 1 <car18> 
+122 1 uncertified 1 <car18> 
+group
+3
+232 0 certified 1 <car19> 
+123 0 delivered 1 <car19> 
+123 1 uncertified 1 <car19> 
+group
+2
+232 0 certified 1 <car19> 
+123 1 uncertified 1 <car19> 
+group
+3
+233 0 certified 1 <car1> 
+124 0 delivered 1 <car1> 
+124 1 uncertified 1 <car1> 
+group
+2
+233 0 certified 1 <car1> 
+124 1 uncertified 1 <car1> 
+group
+3
+234 0 certified 1 <car20> 
+125 0 delivered 1 <car20> 
+125 1 uncertified 1 <car20> 
+group
+2
+234 0 certified 1 <car20> 
+125 1 uncertified 1 <car20> 
+group
+3
+235 0 certified 1 <car21> 
+126 0 delivered 1 <car21> 
+126 1 uncertified 1 <car21> 
+group
+2
+235 0 certified 1 <car21> 
+126 1 uncertified 1 <car21> 
+group
+3
+236 0 certified 1 <car22> 
+127 0 delivered 1 <car22> 
+127 1 uncertified 1 <car22> 
+group
+2
+236 0 certified 1 <car22> 
+127 1 uncertified 1 <car22> 
+group
+3
+237 0 certified 1 <car23> 
+128 0 delivered 1 <car23> 
+128 1 uncertified 1 <car23> 
+group
+2
+237 0 certified 1 <car23> 
+128 1 uncertified 1 <car23> 
+group
+3
+238 0 certified 1 <car24> 
+129 0 delivered 1 <car24> 
+129 1 uncertified 1 <car24> 
+group
+2
+238 0 certified 1 <car24> 
+129 1 uncertified 1 <car24> 
+group
+3
+239 0 certified 1 <car25> 
+130 0 delivered 1 <car25> 
+130 1 uncertified 1 <car25> 
+group
+2
+239 0 certified 1 <car25> 
+130 1 uncertified 1 <car25> 
+group
+3
+240 0 certified 1 <car26> 
+131 0 delivered 1 <car26> 
+131 1 uncertified 1 <car26> 
+group
+2
+240 0 certified 1 <car26> 
+131 1 uncertified 1 <car26> 
+group
+3
+241 0 certified 1 <car27> 
+132 0 delivered 1 <car27> 
+132 1 uncertified 1 <car27> 
+group
+2
+241 0 certified 1 <car27> 
+132 1 uncertified 1 <car27> 
+group
+3
+242 0 certified 1 <car28> 
+133 0 delivered 1 <car28> 
+133 1 uncertified 1 <car28> 
+group
+2
+242 0 certified 1 <car28> 
+133 1 uncertified 1 <car28> 
+group
+3
+243 0 certified 1 <car29> 
+134 0 delivered 1 <car29> 
+134 1 uncertified 1 <car29> 
+group
+2
+243 0 certified 1 <car29> 
+134 1 uncertified 1 <car29> 
+group
+3
+244 0 certified 1 <car2> 
+135 0 delivered 1 <car2> 
+135 1 uncertified 1 <car2> 
+group
+2
+244 0 certified 1 <car2> 
+135 1 uncertified 1 <car2> 
+group
+3
+245 0 certified 1 <car30> 
+136 0 delivered 1 <car30> 
+136 1 uncertified 1 <car30> 
+group
+2
+245 0 certified 1 <car30> 
+136 1 uncertified 1 <car30> 
+group
+3
+246 0 certified 1 <car31> 
+137 0 delivered 1 <car31> 
+137 1 uncertified 1 <car31> 
+group
+2
+246 0 certified 1 <car31> 
+137 1 uncertified 1 <car31> 
+group
+3
+247 0 certified 1 <car32> 
+138 0 delivered 1 <car32> 
+138 1 uncertified 1 <car32> 
+group
+2
+247 0 certified 1 <car32> 
+138 1 uncertified 1 <car32> 
+group
+3
+248 0 certified 1 <car3> 
+139 0 delivered 1 <car3> 
+139 1 uncertified 1 <car3> 
+group
+2
+248 0 certified 1 <car3> 
+139 1 uncertified 1 <car3> 
+group
+3
+249 0 certified 1 <car4> 
+140 0 delivered 1 <car4> 
+140 1 uncertified 1 <car4> 
+group
+2
+249 0 certified 1 <car4> 
+140 1 uncertified 1 <car4> 
+group
+3
+250 0 certified 1 <car5> 
+141 0 delivered 1 <car5> 
+141 1 uncertified 1 <car5> 
+group
+2
+250 0 certified 1 <car5> 
+141 1 uncertified 1 <car5> 
+group
+3
+251 0 certified 1 <car6> 
+142 0 delivered 1 <car6> 
+142 1 uncertified 1 <car6> 
+group
+2
+251 0 certified 1 <car6> 
+142 1 uncertified 1 <car6> 
+group
+3
+252 0 certified 1 <car7> 
+143 0 delivered 1 <car7> 
+143 1 uncertified 1 <car7> 
+group
+2
+252 0 certified 1 <car7> 
+143 1 uncertified 1 <car7> 
+group
+3
+253 0 certified 1 <car8> 
+144 0 delivered 1 <car8> 
+144 1 uncertified 1 <car8> 
+group
+2
+253 0 certified 1 <car8> 
+144 1 uncertified 1 <car8> 
+group
+3
+254 0 certified 1 <car9> 
+145 0 delivered 1 <car9> 
+145 1 uncertified 1 <car9> 
+group
+2
+254 0 certified 1 <car9> 
+145 1 uncertified 1 <car9> 
+group
+4
+78 0 delivered 1 <acc_victim0> 
+78 2 waiting 1 <acc_victim0> 
+78 1 uncertified 1 <acc_victim0> 
+0 1 loaded 2 <acc_victim0> <ambulance0> 
+group
+4
+79 0 delivered 1 <acc_victim10> 
+79 2 waiting 1 <acc_victim10> 
+79 1 uncertified 1 <acc_victim10> 
+0 2 loaded 2 <acc_victim10> <ambulance0> 
+group
+4
+80 0 delivered 1 <acc_victim11> 
+80 2 waiting 1 <acc_victim11> 
+80 1 uncertified 1 <acc_victim11> 
+0 3 loaded 2 <acc_victim11> <ambulance0> 
+group
+4
+81 0 delivered 1 <acc_victim12> 
+81 2 waiting 1 <acc_victim12> 
+81 1 uncertified 1 <acc_victim12> 
+0 4 loaded 2 <acc_victim12> <ambulance0> 
+group
+4
+82 0 delivered 1 <acc_victim13> 
+82 2 waiting 1 <acc_victim13> 
+82 1 uncertified 1 <acc_victim13> 
+0 5 loaded 2 <acc_victim13> <ambulance0> 
+group
+4
+83 0 delivered 1 <acc_victim14> 
+83 2 waiting 1 <acc_victim14> 
+83 1 uncertified 1 <acc_victim14> 
+0 6 loaded 2 <acc_victim14> <ambulance0> 
+group
+4
+84 0 delivered 1 <acc_victim15> 
+84 2 waiting 1 <acc_victim15> 
+84 1 uncertified 1 <acc_victim15> 
+0 7 loaded 2 <acc_victim15> <ambulance0> 
+group
+4
+85 0 delivered 1 <acc_victim16> 
+85 2 waiting 1 <acc_victim16> 
+85 1 uncertified 1 <acc_victim16> 
+0 8 loaded 2 <acc_victim16> <ambulance0> 
+group
+4
+86 0 delivered 1 <acc_victim17> 
+86 2 waiting 1 <acc_victim17> 
+86 1 uncertified 1 <acc_victim17> 
+0 9 loaded 2 <acc_victim17> <ambulance0> 
+group
+4
+87 0 delivered 1 <acc_victim18> 
+87 2 waiting 1 <acc_victim18> 
+87 1 uncertified 1 <acc_victim18> 
+0 10 loaded 2 <acc_victim18> <ambulance0> 
+group
+4
+88 0 delivered 1 <acc_victim19> 
+88 2 waiting 1 <acc_victim19> 
+88 1 uncertified 1 <acc_victim19> 
+0 11 loaded 2 <acc_victim19> <ambulance0> 
+group
+4
+89 0 delivered 1 <acc_victim1> 
+89 2 waiting 1 <acc_victim1> 
+89 1 uncertified 1 <acc_victim1> 
+0 12 loaded 2 <acc_victim1> <ambulance0> 
+group
+4
+90 0 delivered 1 <acc_victim20> 
+90 2 waiting 1 <acc_victim20> 
+90 1 uncertified 1 <acc_victim20> 
+0 13 loaded 2 <acc_victim20> <ambulance0> 
+group
+4
+91 0 delivered 1 <acc_victim21> 
+91 2 waiting 1 <acc_victim21> 
+91 1 uncertified 1 <acc_victim21> 
+0 14 loaded 2 <acc_victim21> <ambulance0> 
+group
+4
+92 0 delivered 1 <acc_victim22> 
+92 2 waiting 1 <acc_victim22> 
+92 1 uncertified 1 <acc_victim22> 
+0 15 loaded 2 <acc_victim22> <ambulance0> 
+group
+4
+93 0 delivered 1 <acc_victim23> 
+93 2 waiting 1 <acc_victim23> 
+93 1 uncertified 1 <acc_victim23> 
+0 16 loaded 2 <acc_victim23> <ambulance0> 
+group
+4
+94 0 delivered 1 <acc_victim24> 
+94 2 waiting 1 <acc_victim24> 
+94 1 uncertified 1 <acc_victim24> 
+0 17 loaded 2 <acc_victim24> <ambulance0> 
+group
+4
+95 0 delivered 1 <acc_victim25> 
+95 2 waiting 1 <acc_victim25> 
+95 1 uncertified 1 <acc_victim25> 
+0 18 loaded 2 <acc_victim25> <ambulance0> 
+group
+4
+96 0 delivered 1 <acc_victim26> 
+96 2 waiting 1 <acc_victim26> 
+96 1 uncertified 1 <acc_victim26> 
+0 19 loaded 2 <acc_victim26> <ambulance0> 
+group
+4
+97 0 delivered 1 <acc_victim27> 
+97 2 waiting 1 <acc_victim27> 
+97 1 uncertified 1 <acc_victim27> 
+0 20 loaded 2 <acc_victim27> <ambulance0> 
+group
+4
+98 0 delivered 1 <acc_victim28> 
+98 2 waiting 1 <acc_victim28> 
+98 1 uncertified 1 <acc_victim28> 
+0 21 loaded 2 <acc_victim28> <ambulance0> 
+group
+4
+99 0 delivered 1 <acc_victim29> 
+99 2 waiting 1 <acc_victim29> 
+99 1 uncertified 1 <acc_victim29> 
+0 22 loaded 2 <acc_victim29> <ambulance0> 
+group
+4
+100 0 delivered 1 <acc_victim2> 
+100 2 waiting 1 <acc_victim2> 
+100 1 uncertified 1 <acc_victim2> 
+0 23 loaded 2 <acc_victim2> <ambulance0> 
+group
+4
+101 0 delivered 1 <acc_victim30> 
+101 2 waiting 1 <acc_victim30> 
+101 1 uncertified 1 <acc_victim30> 
+0 24 loaded 2 <acc_victim30> <ambulance0> 
+group
+4
+102 0 delivered 1 <acc_victim31> 
+102 2 waiting 1 <acc_victim31> 
+102 1 uncertified 1 <acc_victim31> 
+0 25 loaded 2 <acc_victim31> <ambulance0> 
+group
+4
+103 0 delivered 1 <acc_victim32> 
+103 2 waiting 1 <acc_victim32> 
+103 1 uncertified 1 <acc_victim32> 
+0 26 loaded 2 <acc_victim32> <ambulance0> 
+group
+4
+104 0 delivered 1 <acc_victim33> 
+104 2 waiting 1 <acc_victim33> 
+104 1 uncertified 1 <acc_victim33> 
+0 27 loaded 2 <acc_victim33> <ambulance0> 
+group
+4
+105 0 delivered 1 <acc_victim34> 
+105 2 waiting 1 <acc_victim34> 
+105 1 uncertified 1 <acc_victim34> 
+0 28 loaded 2 <acc_victim34> <ambulance0> 
+group
+4
+106 0 delivered 1 <acc_victim3> 
+106 2 waiting 1 <acc_victim3> 
+106 1 uncertified 1 <acc_victim3> 
+0 29 loaded 2 <acc_victim3> <ambulance0> 
+group
+4
+107 0 delivered 1 <acc_victim4> 
+107 2 waiting 1 <acc_victim4> 
+107 1 uncertified 1 <acc_victim4> 
+0 30 loaded 2 <acc_victim4> <ambulance0> 
+group
+4
+108 0 delivered 1 <acc_victim5> 
+108 2 waiting 1 <acc_victim5> 
+108 1 uncertified 1 <acc_victim5> 
+0 31 loaded 2 <acc_victim5> <ambulance0> 
+group
+4
+109 0 delivered 1 <acc_victim6> 
+109 2 waiting 1 <acc_victim6> 
+109 1 uncertified 1 <acc_victim6> 
+0 32 loaded 2 <acc_victim6> <ambulance0> 
+group
+4
+110 0 delivered 1 <acc_victim7> 
+110 2 waiting 1 <acc_victim7> 
+110 1 uncertified 1 <acc_victim7> 
+0 33 loaded 2 <acc_victim7> <ambulance0> 
+group
+4
+111 0 delivered 1 <acc_victim8> 
+111 2 waiting 1 <acc_victim8> 
+111 1 uncertified 1 <acc_victim8> 
+0 34 loaded 2 <acc_victim8> <ambulance0> 
+group
+4
+112 0 delivered 1 <acc_victim9> 
+112 2 waiting 1 <acc_victim9> 
+112 1 uncertified 1 <acc_victim9> 
+0 35 loaded 2 <acc_victim9> <ambulance0> 
+group
+6
+113 0 delivered 1 <car0> 
+113 2 waiting 1 <car0> 
+113 1 uncertified 1 <car0> 
+1 1 loaded 2 <car0> <tow_truck0> 
+2 1 loaded 2 <car0> <tow_truck1> 
+3 1 loaded 2 <car0> <tow_truck2> 
+group
+6
+114 0 delivered 1 <car10> 
+114 2 waiting 1 <car10> 
+114 1 uncertified 1 <car10> 
+1 2 loaded 2 <car10> <tow_truck0> 
+2 2 loaded 2 <car10> <tow_truck1> 
+3 2 loaded 2 <car10> <tow_truck2> 
+group
+6
+115 0 delivered 1 <car11> 
+115 2 waiting 1 <car11> 
+115 1 uncertified 1 <car11> 
+1 3 loaded 2 <car11> <tow_truck0> 
+2 3 loaded 2 <car11> <tow_truck1> 
+3 3 loaded 2 <car11> <tow_truck2> 
+group
+6
+116 0 delivered 1 <car12> 
+116 2 waiting 1 <car12> 
+116 1 uncertified 1 <car12> 
+1 4 loaded 2 <car12> <tow_truck0> 
+2 4 loaded 2 <car12> <tow_truck1> 
+3 4 loaded 2 <car12> <tow_truck2> 
+group
+6
+117 0 delivered 1 <car13> 
+117 2 waiting 1 <car13> 
+117 1 uncertified 1 <car13> 
+1 5 loaded 2 <car13> <tow_truck0> 
+2 5 loaded 2 <car13> <tow_truck1> 
+3 5 loaded 2 <car13> <tow_truck2> 
+group
+6
+118 0 delivered 1 <car14> 
+118 2 waiting 1 <car14> 
+118 1 uncertified 1 <car14> 
+1 6 loaded 2 <car14> <tow_truck0> 
+2 6 loaded 2 <car14> <tow_truck1> 
+3 6 loaded 2 <car14> <tow_truck2> 
+group
+6
+119 0 delivered 1 <car15> 
+119 2 waiting 1 <car15> 
+119 1 uncertified 1 <car15> 
+1 7 loaded 2 <car15> <tow_truck0> 
+2 7 loaded 2 <car15> <tow_truck1> 
+3 7 loaded 2 <car15> <tow_truck2> 
+group
+6
+120 0 delivered 1 <car16> 
+120 2 waiting 1 <car16> 
+120 1 uncertified 1 <car16> 
+1 8 loaded 2 <car16> <tow_truck0> 
+2 8 loaded 2 <car16> <tow_truck1> 
+3 8 loaded 2 <car16> <tow_truck2> 
+group
+6
+121 0 delivered 1 <car17> 
+121 2 waiting 1 <car17> 
+121 1 uncertified 1 <car17> 
+1 9 loaded 2 <car17> <tow_truck0> 
+2 9 loaded 2 <car17> <tow_truck1> 
+3 9 loaded 2 <car17> <tow_truck2> 
+group
+6
+122 0 delivered 1 <car18> 
+122 2 waiting 1 <car18> 
+122 1 uncertified 1 <car18> 
+1 10 loaded 2 <car18> <tow_truck0> 
+2 10 loaded 2 <car18> <tow_truck1> 
+3 10 loaded 2 <car18> <tow_truck2> 
+group
+6
+123 0 delivered 1 <car19> 
+123 2 waiting 1 <car19> 
+123 1 uncertified 1 <car19> 
+1 11 loaded 2 <car19> <tow_truck0> 
+2 11 loaded 2 <car19> <tow_truck1> 
+3 11 loaded 2 <car19> <tow_truck2> 
+group
+6
+124 0 delivered 1 <car1> 
+124 2 waiting 1 <car1> 
+124 1 uncertified 1 <car1> 
+1 12 loaded 2 <car1> <tow_truck0> 
+2 12 loaded 2 <car1> <tow_truck1> 
+3 12 loaded 2 <car1> <tow_truck2> 
+group
+6
+125 0 delivered 1 <car20> 
+125 2 waiting 1 <car20> 
+125 1 uncertified 1 <car20> 
+1 13 loaded 2 <car20> <tow_truck0> 
+2 13 loaded 2 <car20> <tow_truck1> 
+3 13 loaded 2 <car20> <tow_truck2> 
+group
+6
+126 0 delivered 1 <car21> 
+126 2 waiting 1 <car21> 
+126 1 uncertified 1 <car21> 
+1 14 loaded 2 <car21> <tow_truck0> 
+2 14 loaded 2 <car21> <tow_truck1> 
+3 14 loaded 2 <car21> <tow_truck2> 
+group
+6
+127 0 delivered 1 <car22> 
+127 2 waiting 1 <car22> 
+127 1 uncertified 1 <car22> 
+1 15 loaded 2 <car22> <tow_truck0> 
+2 15 loaded 2 <car22> <tow_truck1> 
+3 15 loaded 2 <car22> <tow_truck2> 
+group
+6
+128 0 delivered 1 <car23> 
+128 2 waiting 1 <car23> 
+128 1 uncertified 1 <car23> 
+1 16 loaded 2 <car23> <tow_truck0> 
+2 16 loaded 2 <car23> <tow_truck1> 
+3 16 loaded 2 <car23> <tow_truck2> 
+group
+6
+129 0 delivered 1 <car24> 
+129 2 waiting 1 <car24> 
+129 1 uncertified 1 <car24> 
+1 17 loaded 2 <car24> <tow_truck0> 
+2 17 loaded 2 <car24> <tow_truck1> 
+3 17 loaded 2 <car24> <tow_truck2> 
+group
+6
+130 0 delivered 1 <car25> 
+130 2 waiting 1 <car25> 
+130 1 uncertified 1 <car25> 
+1 18 loaded 2 <car25> <tow_truck0> 
+2 18 loaded 2 <car25> <tow_truck1> 
+3 18 loaded 2 <car25> <tow_truck2> 
+group
+6
+131 0 delivered 1 <car26> 
+131 2 waiting 1 <car26> 
+131 1 uncertified 1 <car26> 
+1 19 loaded 2 <car26> <tow_truck0> 
+2 19 loaded 2 <car26> <tow_truck1> 
+3 19 loaded 2 <car26> <tow_truck2> 
+group
+6
+132 0 delivered 1 <car27> 
+132 2 waiting 1 <car27> 
+132 1 uncertified 1 <car27> 
+1 20 loaded 2 <car27> <tow_truck0> 
+2 20 loaded 2 <car27> <tow_truck1> 
+3 20 loaded 2 <car27> <tow_truck2> 
+group
+6
+133 0 delivered 1 <car28> 
+133 2 waiting 1 <car28> 
+133 1 uncertified 1 <car28> 
+1 21 loaded 2 <car28> <tow_truck0> 
+2 21 loaded 2 <car28> <tow_truck1> 
+3 21 loaded 2 <car28> <tow_truck2> 
+group
+6
+134 0 delivered 1 <car29> 
+134 2 waiting 1 <car29> 
+134 1 uncertified 1 <car29> 
+1 22 loaded 2 <car29> <tow_truck0> 
+2 22 loaded 2 <car29> <tow_truck1> 
+3 22 loaded 2 <car29> <tow_truck2> 
+group
+6
+135 0 delivered 1 <car2> 
+135 2 waiting 1 <car2> 
+135 1 uncertified 1 <car2> 
+1 23 loaded 2 <car2> <tow_truck0> 
+2 23 loaded 2 <car2> <tow_truck1> 
+3 23 loaded 2 <car2> <tow_truck2> 
+group
+6
+136 0 delivered 1 <car30> 
+136 2 waiting 1 <car30> 
+136 1 uncertified 1 <car30> 
+1 24 loaded 2 <car30> <tow_truck0> 
+2 24 loaded 2 <car30> <tow_truck1> 
+3 24 loaded 2 <car30> <tow_truck2> 
+group
+6
+137 0 delivered 1 <car31> 
+137 2 waiting 1 <car31> 
+137 1 uncertified 1 <car31> 
+1 25 loaded 2 <car31> <tow_truck0> 
+2 25 loaded 2 <car31> <tow_truck1> 
+3 25 loaded 2 <car31> <tow_truck2> 
+group
+6
+138 0 delivered 1 <car32> 
+138 2 waiting 1 <car32> 
+138 1 uncertified 1 <car32> 
+1 26 loaded 2 <car32> <tow_truck0> 
+2 26 loaded 2 <car32> <tow_truck1> 
+3 26 loaded 2 <car32> <tow_truck2> 
+group
+6
+139 0 delivered 1 <car3> 
+139 2 waiting 1 <car3> 
+139 1 uncertified 1 <car3> 
+1 27 loaded 2 <car3> <tow_truck0> 
+2 27 loaded 2 <car3> <tow_truck1> 
+3 27 loaded 2 <car3> <tow_truck2> 
+group
+6
+140 0 delivered 1 <car4> 
+140 2 waiting 1 <car4> 
+140 1 uncertified 1 <car4> 
+1 28 loaded 2 <car4> <tow_truck0> 
+2 28 loaded 2 <car4> <tow_truck1> 
+3 28 loaded 2 <car4> <tow_truck2> 
+group
+6
+141 0 delivered 1 <car5> 
+141 2 waiting 1 <car5> 
+141 1 uncertified 1 <car5> 
+1 29 loaded 2 <car5> <tow_truck0> 
+2 29 loaded 2 <car5> <tow_truck1> 
+3 29 loaded 2 <car5> <tow_truck2> 
+group
+6
+142 0 delivered 1 <car6> 
+142 2 waiting 1 <car6> 
+142 1 uncertified 1 <car6> 
+1 30 loaded 2 <car6> <tow_truck0> 
+2 30 loaded 2 <car6> <tow_truck1> 
+3 30 loaded 2 <car6> <tow_truck2> 
+group
+6
+143 0 delivered 1 <car7> 
+143 2 waiting 1 <car7> 
+143 1 uncertified 1 <car7> 
+1 31 loaded 2 <car7> <tow_truck0> 
+2 31 loaded 2 <car7> <tow_truck1> 
+3 31 loaded 2 <car7> <tow_truck2> 
+group
+6
+144 0 delivered 1 <car8> 
+144 2 waiting 1 <car8> 
+144 1 uncertified 1 <car8> 
+1 32 loaded 2 <car8> <tow_truck0> 
+2 32 loaded 2 <car8> <tow_truck1> 
+3 32 loaded 2 <car8> <tow_truck2> 
+group
+6
+145 0 delivered 1 <car9> 
+145 2 waiting 1 <car9> 
+145 1 uncertified 1 <car9> 
+1 33 loaded 2 <car9> <tow_truck0> 
+2 33 loaded 2 <car9> <tow_truck1> 
+3 33 loaded 2 <car9> <tow_truck2> 
+group
+5
+0 1 loaded 2 <acc_victim0> <ambulance0> 
+43 0 at 2 <acc_victim0> <accident_location2> 
+43 3 at 2 <acc_victim0> <huddersfield_hospital> 
+43 2 at 2 <acc_victim0> <halifax_hospital> 
+43 1 at 2 <acc_victim0> <brighouse_hospital> 
+group
+3
+0 1 loaded 2 <acc_victim0> <ambulance0> 
+78 2 waiting 1 <acc_victim0> 
+78 1 uncertified 1 <acc_victim0> 
+group
+5
+0 2 loaded 2 <acc_victim10> <ambulance0> 
+44 0 at 2 <acc_victim10> <accident_location2> 
+44 3 at 2 <acc_victim10> <huddersfield_hospital> 
+44 2 at 2 <acc_victim10> <halifax_hospital> 
+44 1 at 2 <acc_victim10> <brighouse_hospital> 
+group
+3
+0 2 loaded 2 <acc_victim10> <ambulance0> 
+79 2 waiting 1 <acc_victim10> 
+79 1 uncertified 1 <acc_victim10> 
+group
+5
+0 3 loaded 2 <acc_victim11> <ambulance0> 
+45 0 at 2 <acc_victim11> <accident_location0> 
+45 3 at 2 <acc_victim11> <huddersfield_hospital> 
+45 2 at 2 <acc_victim11> <halifax_hospital> 
+45 1 at 2 <acc_victim11> <brighouse_hospital> 
+group
+3
+0 3 loaded 2 <acc_victim11> <ambulance0> 
+80 2 waiting 1 <acc_victim11> 
+80 1 uncertified 1 <acc_victim11> 
+group
+5
+0 4 loaded 2 <acc_victim12> <ambulance0> 
+46 0 at 2 <acc_victim12> <accident_location4> 
+46 3 at 2 <acc_victim12> <huddersfield_hospital> 
+46 2 at 2 <acc_victim12> <halifax_hospital> 
+46 1 at 2 <acc_victim12> <brighouse_hospital> 
+group
+3
+0 4 loaded 2 <acc_victim12> <ambulance0> 
+81 2 waiting 1 <acc_victim12> 
+81 1 uncertified 1 <acc_victim12> 
+group
+5
+0 5 loaded 2 <acc_victim13> <ambulance0> 
+47 0 at 2 <acc_victim13> <accident_location1> 
+47 3 at 2 <acc_victim13> <huddersfield_hospital> 
+47 2 at 2 <acc_victim13> <halifax_hospital> 
+47 1 at 2 <acc_victim13> <brighouse_hospital> 
+group
+3
+0 5 loaded 2 <acc_victim13> <ambulance0> 
+82 2 waiting 1 <acc_victim13> 
+82 1 uncertified 1 <acc_victim13> 
+group
+5
+0 6 loaded 2 <acc_victim14> <ambulance0> 
+48 0 at 2 <acc_victim14> <accident_location3> 
+48 3 at 2 <acc_victim14> <huddersfield_hospital> 
+48 2 at 2 <acc_victim14> <halifax_hospital> 
+48 1 at 2 <acc_victim14> <brighouse_hospital> 
+group
+3
+0 6 loaded 2 <acc_victim14> <ambulance0> 
+83 2 waiting 1 <acc_victim14> 
+83 1 uncertified 1 <acc_victim14> 
+group
+5
+0 7 loaded 2 <acc_victim15> <ambulance0> 
+49 0 at 2 <acc_victim15> <accident_location4> 
+49 3 at 2 <acc_victim15> <huddersfield_hospital> 
+49 2 at 2 <acc_victim15> <halifax_hospital> 
+49 1 at 2 <acc_victim15> <brighouse_hospital> 
+group
+3
+0 7 loaded 2 <acc_victim15> <ambulance0> 
+84 2 waiting 1 <acc_victim15> 
+84 1 uncertified 1 <acc_victim15> 
+group
+5
+0 8 loaded 2 <acc_victim16> <ambulance0> 
+50 0 at 2 <acc_victim16> <accident_location4> 
+50 3 at 2 <acc_victim16> <huddersfield_hospital> 
+50 2 at 2 <acc_victim16> <halifax_hospital> 
+50 1 at 2 <acc_victim16> <brighouse_hospital> 
+group
+3
+0 8 loaded 2 <acc_victim16> <ambulance0> 
+85 2 waiting 1 <acc_victim16> 
+85 1 uncertified 1 <acc_victim16> 
+group
+5
+0 9 loaded 2 <acc_victim17> <ambulance0> 
+51 0 at 2 <acc_victim17> <accident_location4> 
+51 3 at 2 <acc_victim17> <huddersfield_hospital> 
+51 2 at 2 <acc_victim17> <halifax_hospital> 
+51 1 at 2 <acc_victim17> <brighouse_hospital> 
+group
+3
+0 9 loaded 2 <acc_victim17> <ambulance0> 
+86 2 waiting 1 <acc_victim17> 
+86 1 uncertified 1 <acc_victim17> 
+group
+5
+0 10 loaded 2 <acc_victim18> <ambulance0> 
+52 0 at 2 <acc_victim18> <accident_location4> 
+52 3 at 2 <acc_victim18> <huddersfield_hospital> 
+52 2 at 2 <acc_victim18> <halifax_hospital> 
+52 1 at 2 <acc_victim18> <brighouse_hospital> 
+group
+3
+0 10 loaded 2 <acc_victim18> <ambulance0> 
+87 2 waiting 1 <acc_victim18> 
+87 1 uncertified 1 <acc_victim18> 
+group
+5
+0 11 loaded 2 <acc_victim19> <ambulance0> 
+53 0 at 2 <acc_victim19> <accident_location2> 
+53 3 at 2 <acc_victim19> <huddersfield_hospital> 
+53 2 at 2 <acc_victim19> <halifax_hospital> 
+53 1 at 2 <acc_victim19> <brighouse_hospital> 
+group
+3
+0 11 loaded 2 <acc_victim19> <ambulance0> 
+88 2 waiting 1 <acc_victim19> 
+88 1 uncertified 1 <acc_victim19> 
+group
+5
+0 12 loaded 2 <acc_victim1> <ambulance0> 
+54 0 at 2 <acc_victim1> <accident_location1> 
+54 3 at 2 <acc_victim1> <huddersfield_hospital> 
+54 2 at 2 <acc_victim1> <halifax_hospital> 
+54 1 at 2 <acc_victim1> <brighouse_hospital> 
+group
+3
+0 12 loaded 2 <acc_victim1> <ambulance0> 
+89 2 waiting 1 <acc_victim1> 
+89 1 uncertified 1 <acc_victim1> 
+group
+5
+0 13 loaded 2 <acc_victim20> <ambulance0> 
+55 0 at 2 <acc_victim20> <accident_location2> 
+55 3 at 2 <acc_victim20> <huddersfield_hospital> 
+55 2 at 2 <acc_victim20> <halifax_hospital> 
+55 1 at 2 <acc_victim20> <brighouse_hospital> 
+group
+3
+0 13 loaded 2 <acc_victim20> <ambulance0> 
+90 2 waiting 1 <acc_victim20> 
+90 1 uncertified 1 <acc_victim20> 
+group
+5
+0 14 loaded 2 <acc_victim21> <ambulance0> 
+56 0 at 2 <acc_victim21> <accident_location2> 
+56 3 at 2 <acc_victim21> <huddersfield_hospital> 
+56 2 at 2 <acc_victim21> <halifax_hospital> 
+56 1 at 2 <acc_victim21> <brighouse_hospital> 
+group
+3
+0 14 loaded 2 <acc_victim21> <ambulance0> 
+91 2 waiting 1 <acc_victim21> 
+91 1 uncertified 1 <acc_victim21> 
+group
+5
+0 15 loaded 2 <acc_victim22> <ambulance0> 
+57 0 at 2 <acc_victim22> <accident_location0> 
+57 3 at 2 <acc_victim22> <huddersfield_hospital> 
+57 2 at 2 <acc_victim22> <halifax_hospital> 
+57 1 at 2 <acc_victim22> <brighouse_hospital> 
+group
+3
+0 15 loaded 2 <acc_victim22> <ambulance0> 
+92 2 waiting 1 <acc_victim22> 
+92 1 uncertified 1 <acc_victim22> 
+group
+5
+0 16 loaded 2 <acc_victim23> <ambulance0> 
+58 0 at 2 <acc_victim23> <accident_location1> 
+58 3 at 2 <acc_victim23> <huddersfield_hospital> 
+58 2 at 2 <acc_victim23> <halifax_hospital> 
+58 1 at 2 <acc_victim23> <brighouse_hospital> 
+group
+3
+0 16 loaded 2 <acc_victim23> <ambulance0> 
+93 2 waiting 1 <acc_victim23> 
+93 1 uncertified 1 <acc_victim23> 
+group
+5
+0 17 loaded 2 <acc_victim24> <ambulance0> 
+59 0 at 2 <acc_victim24> <accident_location3> 
+59 3 at 2 <acc_victim24> <huddersfield_hospital> 
+59 2 at 2 <acc_victim24> <halifax_hospital> 
+59 1 at 2 <acc_victim24> <brighouse_hospital> 
+group
+3
+0 17 loaded 2 <acc_victim24> <ambulance0> 
+94 2 waiting 1 <acc_victim24> 
+94 1 uncertified 1 <acc_victim24> 
+group
+5
+0 18 loaded 2 <acc_victim25> <ambulance0> 
+60 0 at 2 <acc_victim25> <accident_location1> 
+60 3 at 2 <acc_victim25> <huddersfield_hospital> 
+60 2 at 2 <acc_victim25> <halifax_hospital> 
+60 1 at 2 <acc_victim25> <brighouse_hospital> 
+group
+3
+0 18 loaded 2 <acc_victim25> <ambulance0> 
+95 2 waiting 1 <acc_victim25> 
+95 1 uncertified 1 <acc_victim25> 
+group
+5
+0 19 loaded 2 <acc_victim26> <ambulance0> 
+61 0 at 2 <acc_victim26> <accident_location4> 
+61 3 at 2 <acc_victim26> <huddersfield_hospital> 
+61 2 at 2 <acc_victim26> <halifax_hospital> 
+61 1 at 2 <acc_victim26> <brighouse_hospital> 
+group
+3
+0 19 loaded 2 <acc_victim26> <ambulance0> 
+96 2 waiting 1 <acc_victim26> 
+96 1 uncertified 1 <acc_victim26> 
+group
+5
+0 20 loaded 2 <acc_victim27> <ambulance0> 
+62 0 at 2 <acc_victim27> <accident_location1> 
+62 3 at 2 <acc_victim27> <huddersfield_hospital> 
+62 2 at 2 <acc_victim27> <halifax_hospital> 
+62 1 at 2 <acc_victim27> <brighouse_hospital> 
+group
+3
+0 20 loaded 2 <acc_victim27> <ambulance0> 
+97 2 waiting 1 <acc_victim27> 
+97 1 uncertified 1 <acc_victim27> 
+group
+5
+0 21 loaded 2 <acc_victim28> <ambulance0> 
+63 0 at 2 <acc_victim28> <accident_location0> 
+63 3 at 2 <acc_victim28> <huddersfield_hospital> 
+63 2 at 2 <acc_victim28> <halifax_hospital> 
+63 1 at 2 <acc_victim28> <brighouse_hospital> 
+group
+3
+0 21 loaded 2 <acc_victim28> <ambulance0> 
+98 2 waiting 1 <acc_victim28> 
+98 1 uncertified 1 <acc_victim28> 
+group
+5
+0 22 loaded 2 <acc_victim29> <ambulance0> 
+64 0 at 2 <acc_victim29> <accident_location4> 
+64 3 at 2 <acc_victim29> <huddersfield_hospital> 
+64 2 at 2 <acc_victim29> <halifax_hospital> 
+64 1 at 2 <acc_victim29> <brighouse_hospital> 
+group
+3
+0 22 loaded 2 <acc_victim29> <ambulance0> 
+99 2 waiting 1 <acc_victim29> 
+99 1 uncertified 1 <acc_victim29> 
+group
+5
+0 23 loaded 2 <acc_victim2> <ambulance0> 
+65 0 at 2 <acc_victim2> <accident_location0> 
+65 3 at 2 <acc_victim2> <huddersfield_hospital> 
+65 2 at 2 <acc_victim2> <halifax_hospital> 
+65 1 at 2 <acc_victim2> <brighouse_hospital> 
+group
+3
+0 23 loaded 2 <acc_victim2> <ambulance0> 
+100 2 waiting 1 <acc_victim2> 
+100 1 uncertified 1 <acc_victim2> 
+group
+5
+0 24 loaded 2 <acc_victim30> <ambulance0> 
+66 0 at 2 <acc_victim30> <accident_location2> 
+66 3 at 2 <acc_victim30> <huddersfield_hospital> 
+66 2 at 2 <acc_victim30> <halifax_hospital> 
+66 1 at 2 <acc_victim30> <brighouse_hospital> 
+group
+3
+0 24 loaded 2 <acc_victim30> <ambulance0> 
+101 2 waiting 1 <acc_victim30> 
+101 1 uncertified 1 <acc_victim30> 
+group
+5
+0 25 loaded 2 <acc_victim31> <ambulance0> 
+67 0 at 2 <acc_victim31> <accident_location4> 
+67 3 at 2 <acc_victim31> <huddersfield_hospital> 
+67 2 at 2 <acc_victim31> <halifax_hospital> 
+67 1 at 2 <acc_victim31> <brighouse_hospital> 
+group
+3
+0 25 loaded 2 <acc_victim31> <ambulance0> 
+102 2 waiting 1 <acc_victim31> 
+102 1 uncertified 1 <acc_victim31> 
+group
+5
+0 26 loaded 2 <acc_victim32> <ambulance0> 
+68 0 at 2 <acc_victim32> <accident_location3> 
+68 3 at 2 <acc_victim32> <huddersfield_hospital> 
+68 2 at 2 <acc_victim32> <halifax_hospital> 
+68 1 at 2 <acc_victim32> <brighouse_hospital> 
+group
+3
+0 26 loaded 2 <acc_victim32> <ambulance0> 
+103 2 waiting 1 <acc_victim32> 
+103 1 uncertified 1 <acc_victim32> 
+group
+5
+0 27 loaded 2 <acc_victim33> <ambulance0> 
+69 0 at 2 <acc_victim33> <accident_location2> 
+69 3 at 2 <acc_victim33> <huddersfield_hospital> 
+69 2 at 2 <acc_victim33> <halifax_hospital> 
+69 1 at 2 <acc_victim33> <brighouse_hospital> 
+group
+3
+0 27 loaded 2 <acc_victim33> <ambulance0> 
+104 2 waiting 1 <acc_victim33> 
+104 1 uncertified 1 <acc_victim33> 
+group
+5
+0 28 loaded 2 <acc_victim34> <ambulance0> 
+70 0 at 2 <acc_victim34> <accident_location4> 
+70 3 at 2 <acc_victim34> <huddersfield_hospital> 
+70 2 at 2 <acc_victim34> <halifax_hospital> 
+70 1 at 2 <acc_victim34> <brighouse_hospital> 
+group
+3
+0 28 loaded 2 <acc_victim34> <ambulance0> 
+105 2 waiting 1 <acc_victim34> 
+105 1 uncertified 1 <acc_victim34> 
+group
+5
+0 29 loaded 2 <acc_victim3> <ambulance0> 
+71 0 at 2 <acc_victim3> <accident_location0> 
+71 3 at 2 <acc_victim3> <huddersfield_hospital> 
+71 2 at 2 <acc_victim3> <halifax_hospital> 
+71 1 at 2 <acc_victim3> <brighouse_hospital> 
+group
+3
+0 29 loaded 2 <acc_victim3> <ambulance0> 
+106 2 waiting 1 <acc_victim3> 
+106 1 uncertified 1 <acc_victim3> 
+group
+5
+0 30 loaded 2 <acc_victim4> <ambulance0> 
+72 0 at 2 <acc_victim4> <accident_location0> 
+72 3 at 2 <acc_victim4> <huddersfield_hospital> 
+72 2 at 2 <acc_victim4> <halifax_hospital> 
+72 1 at 2 <acc_victim4> <brighouse_hospital> 
+group
+3
+0 30 loaded 2 <acc_victim4> <ambulance0> 
+107 2 waiting 1 <acc_victim4> 
+107 1 uncertified 1 <acc_victim4> 
+group
+5
+0 31 loaded 2 <acc_victim5> <ambulance0> 
+73 0 at 2 <acc_victim5> <accident_location3> 
+73 3 at 2 <acc_victim5> <huddersfield_hospital> 
+73 2 at 2 <acc_victim5> <halifax_hospital> 
+73 1 at 2 <acc_victim5> <brighouse_hospital> 
+group
+3
+0 31 loaded 2 <acc_victim5> <ambulance0> 
+108 2 waiting 1 <acc_victim5> 
+108 1 uncertified 1 <acc_victim5> 
+group
+5
+0 32 loaded 2 <acc_victim6> <ambulance0> 
+74 0 at 2 <acc_victim6> <accident_location4> 
+74 3 at 2 <acc_victim6> <huddersfield_hospital> 
+74 2 at 2 <acc_victim6> <halifax_hospital> 
+74 1 at 2 <acc_victim6> <brighouse_hospital> 
+group
+3
+0 32 loaded 2 <acc_victim6> <ambulance0> 
+109 2 waiting 1 <acc_victim6> 
+109 1 uncertified 1 <acc_victim6> 
+group
+5
+0 33 loaded 2 <acc_victim7> <ambulance0> 
+75 0 at 2 <acc_victim7> <accident_location1> 
+75 3 at 2 <acc_victim7> <huddersfield_hospital> 
+75 2 at 2 <acc_victim7> <halifax_hospital> 
+75 1 at 2 <acc_victim7> <brighouse_hospital> 
+group
+3
+0 33 loaded 2 <acc_victim7> <ambulance0> 
+110 2 waiting 1 <acc_victim7> 
+110 1 uncertified 1 <acc_victim7> 
+group
+5
+0 34 loaded 2 <acc_victim8> <ambulance0> 
+76 0 at 2 <acc_victim8> <accident_location3> 
+76 3 at 2 <acc_victim8> <huddersfield_hospital> 
+76 2 at 2 <acc_victim8> <halifax_hospital> 
+76 1 at 2 <acc_victim8> <brighouse_hospital> 
+group
+3
+0 34 loaded 2 <acc_victim8> <ambulance0> 
+111 2 waiting 1 <acc_victim8> 
+111 1 uncertified 1 <acc_victim8> 
+group
+5
+0 35 loaded 2 <acc_victim9> <ambulance0> 
+77 0 at 2 <acc_victim9> <accident_location4> 
+77 3 at 2 <acc_victim9> <huddersfield_hospital> 
+77 2 at 2 <acc_victim9> <halifax_hospital> 
+77 1 at 2 <acc_victim9> <brighouse_hospital> 
+group
+3
+0 35 loaded 2 <acc_victim9> <ambulance0> 
+112 2 waiting 1 <acc_victim9> 
+112 1 uncertified 1 <acc_victim9> 
+group
+18
+4 0 at 2 <ambulance0> <accident_location0> 
+4 1 at 2 <ambulance0> <accident_location1> 
+4 2 at 2 <ambulance0> <accident_location2> 
+4 3 at 2 <ambulance0> <accident_location3> 
+4 4 at 2 <ambulance0> <accident_location4> 
+4 7 at 2 <ambulance0> <fire_hud> 
+4 6 at 2 <ambulance0> <fire_hal> 
+4 17 at 2 <ambulance0> <police_queen> 
+4 14 at 2 <ambulance0> <police_bradley> 
+4 15 at 2 <ambulance0> <police_halifax> 
+4 16 at 2 <ambulance0> <police_huddersfield> 
+4 13 at 2 <ambulance0> <huddersfield_hospital> 
+4 12 at 2 <ambulance0> <halifax_hospital> 
+4 5 at 2 <ambulance0> <brighouse_hospital> 
+4 9 at 2 <ambulance0> <garage_halifax> 
+4 10 at 2 <ambulance0> <garage_huddersfield> 
+4 8 at 2 <ambulance0> <garage_brighouse> 
+4 11 at 2 <ambulance0> <garage_queensbury> 
+group
+8
+1 1 loaded 2 <car0> <tow_truck0> 
+2 1 loaded 2 <car0> <tow_truck1> 
+3 1 loaded 2 <car0> <tow_truck2> 
+10 0 at 2 <car0> <accident_location0> 
+10 2 at 2 <car0> <garage_halifax> 
+10 3 at 2 <car0> <garage_huddersfield> 
+10 1 at 2 <car0> <garage_brighouse> 
+10 4 at 2 <car0> <garage_queensbury> 
+group
+5
+1 1 loaded 2 <car0> <tow_truck0> 
+2 1 loaded 2 <car0> <tow_truck1> 
+3 1 loaded 2 <car0> <tow_truck2> 
+113 2 waiting 1 <car0> 
+113 1 uncertified 1 <car0> 
+group
+8
+1 2 loaded 2 <car10> <tow_truck0> 
+2 2 loaded 2 <car10> <tow_truck1> 
+3 2 loaded 2 <car10> <tow_truck2> 
+11 0 at 2 <car10> <accident_location0> 
+11 2 at 2 <car10> <garage_halifax> 
+11 3 at 2 <car10> <garage_huddersfield> 
+11 1 at 2 <car10> <garage_brighouse> 
+11 4 at 2 <car10> <garage_queensbury> 
+group
+5
+1 2 loaded 2 <car10> <tow_truck0> 
+2 2 loaded 2 <car10> <tow_truck1> 
+3 2 loaded 2 <car10> <tow_truck2> 
+114 2 waiting 1 <car10> 
+114 1 uncertified 1 <car10> 
+group
+8
+1 3 loaded 2 <car11> <tow_truck0> 
+2 3 loaded 2 <car11> <tow_truck1> 
+3 3 loaded 2 <car11> <tow_truck2> 
+12 0 at 2 <car11> <accident_location2> 
+12 2 at 2 <car11> <garage_halifax> 
+12 3 at 2 <car11> <garage_huddersfield> 
+12 1 at 2 <car11> <garage_brighouse> 
+12 4 at 2 <car11> <garage_queensbury> 
+group
+5
+1 3 loaded 2 <car11> <tow_truck0> 
+2 3 loaded 2 <car11> <tow_truck1> 
+3 3 loaded 2 <car11> <tow_truck2> 
+115 2 waiting 1 <car11> 
+115 1 uncertified 1 <car11> 
+group
+8
+1 4 loaded 2 <car12> <tow_truck0> 
+2 4 loaded 2 <car12> <tow_truck1> 
+3 4 loaded 2 <car12> <tow_truck2> 
+13 0 at 2 <car12> <accident_location2> 
+13 2 at 2 <car12> <garage_halifax> 
+13 3 at 2 <car12> <garage_huddersfield> 
+13 1 at 2 <car12> <garage_brighouse> 
+13 4 at 2 <car12> <garage_queensbury> 
+group
+5
+1 4 loaded 2 <car12> <tow_truck0> 
+2 4 loaded 2 <car12> <tow_truck1> 
+3 4 loaded 2 <car12> <tow_truck2> 
+116 2 waiting 1 <car12> 
+116 1 uncertified 1 <car12> 
+group
+8
+1 5 loaded 2 <car13> <tow_truck0> 
+2 5 loaded 2 <car13> <tow_truck1> 
+3 5 loaded 2 <car13> <tow_truck2> 
+14 0 at 2 <car13> <accident_location4> 
+14 2 at 2 <car13> <garage_halifax> 
+14 3 at 2 <car13> <garage_huddersfield> 
+14 1 at 2 <car13> <garage_brighouse> 
+14 4 at 2 <car13> <garage_queensbury> 
+group
+5
+1 5 loaded 2 <car13> <tow_truck0> 
+2 5 loaded 2 <car13> <tow_truck1> 
+3 5 loaded 2 <car13> <tow_truck2> 
+117 2 waiting 1 <car13> 
+117 1 uncertified 1 <car13> 
+group
+8
+1 6 loaded 2 <car14> <tow_truck0> 
+2 6 loaded 2 <car14> <tow_truck1> 
+3 6 loaded 2 <car14> <tow_truck2> 
+15 0 at 2 <car14> <accident_location1> 
+15 2 at 2 <car14> <garage_halifax> 
+15 3 at 2 <car14> <garage_huddersfield> 
+15 1 at 2 <car14> <garage_brighouse> 
+15 4 at 2 <car14> <garage_queensbury> 
+group
+5
+1 6 loaded 2 <car14> <tow_truck0> 
+2 6 loaded 2 <car14> <tow_truck1> 
+3 6 loaded 2 <car14> <tow_truck2> 
+118 2 waiting 1 <car14> 
+118 1 uncertified 1 <car14> 
+group
+8
+1 7 loaded 2 <car15> <tow_truck0> 
+2 7 loaded 2 <car15> <tow_truck1> 
+3 7 loaded 2 <car15> <tow_truck2> 
+16 0 at 2 <car15> <accident_location0> 
+16 2 at 2 <car15> <garage_halifax> 
+16 3 at 2 <car15> <garage_huddersfield> 
+16 1 at 2 <car15> <garage_brighouse> 
+16 4 at 2 <car15> <garage_queensbury> 
+group
+5
+1 7 loaded 2 <car15> <tow_truck0> 
+2 7 loaded 2 <car15> <tow_truck1> 
+3 7 loaded 2 <car15> <tow_truck2> 
+119 2 waiting 1 <car15> 
+119 1 uncertified 1 <car15> 
+group
+8
+1 8 loaded 2 <car16> <tow_truck0> 
+2 8 loaded 2 <car16> <tow_truck1> 
+3 8 loaded 2 <car16> <tow_truck2> 
+17 0 at 2 <car16> <accident_location1> 
+17 2 at 2 <car16> <garage_halifax> 
+17 3 at 2 <car16> <garage_huddersfield> 
+17 1 at 2 <car16> <garage_brighouse> 
+17 4 at 2 <car16> <garage_queensbury> 
+group
+5
+1 8 loaded 2 <car16> <tow_truck0> 
+2 8 loaded 2 <car16> <tow_truck1> 
+3 8 loaded 2 <car16> <tow_truck2> 
+120 2 waiting 1 <car16> 
+120 1 uncertified 1 <car16> 
+group
+8
+1 9 loaded 2 <car17> <tow_truck0> 
+2 9 loaded 2 <car17> <tow_truck1> 
+3 9 loaded 2 <car17> <tow_truck2> 
+18 0 at 2 <car17> <accident_location1> 
+18 2 at 2 <car17> <garage_halifax> 
+18 3 at 2 <car17> <garage_huddersfield> 
+18 1 at 2 <car17> <garage_brighouse> 
+18 4 at 2 <car17> <garage_queensbury> 
+group
+5
+1 9 loaded 2 <car17> <tow_truck0> 
+2 9 loaded 2 <car17> <tow_truck1> 
+3 9 loaded 2 <car17> <tow_truck2> 
+121 2 waiting 1 <car17> 
+121 1 uncertified 1 <car17> 
+group
+8
+1 10 loaded 2 <car18> <tow_truck0> 
+2 10 loaded 2 <car18> <tow_truck1> 
+3 10 loaded 2 <car18> <tow_truck2> 
+19 0 at 2 <car18> <accident_location0> 
+19 2 at 2 <car18> <garage_halifax> 
+19 3 at 2 <car18> <garage_huddersfield> 
+19 1 at 2 <car18> <garage_brighouse> 
+19 4 at 2 <car18> <garage_queensbury> 
+group
+5
+1 10 loaded 2 <car18> <tow_truck0> 
+2 10 loaded 2 <car18> <tow_truck1> 
+3 10 loaded 2 <car18> <tow_truck2> 
+122 2 waiting 1 <car18> 
+122 1 uncertified 1 <car18> 
+group
+8
+1 11 loaded 2 <car19> <tow_truck0> 
+2 11 loaded 2 <car19> <tow_truck1> 
+3 11 loaded 2 <car19> <tow_truck2> 
+20 0 at 2 <car19> <accident_location0> 
+20 2 at 2 <car19> <garage_halifax> 
+20 3 at 2 <car19> <garage_huddersfield> 
+20 1 at 2 <car19> <garage_brighouse> 
+20 4 at 2 <car19> <garage_queensbury> 
+group
+5
+1 11 loaded 2 <car19> <tow_truck0> 
+2 11 loaded 2 <car19> <tow_truck1> 
+3 11 loaded 2 <car19> <tow_truck2> 
+123 2 waiting 1 <car19> 
+123 1 uncertified 1 <car19> 
+group
+8
+1 12 loaded 2 <car1> <tow_truck0> 
+2 12 loaded 2 <car1> <tow_truck1> 
+3 12 loaded 2 <car1> <tow_truck2> 
+21 0 at 2 <car1> <accident_location1> 
+21 2 at 2 <car1> <garage_halifax> 
+21 3 at 2 <car1> <garage_huddersfield> 
+21 1 at 2 <car1> <garage_brighouse> 
+21 4 at 2 <car1> <garage_queensbury> 
+group
+5
+1 12 loaded 2 <car1> <tow_truck0> 
+2 12 loaded 2 <car1> <tow_truck1> 
+3 12 loaded 2 <car1> <tow_truck2> 
+124 2 waiting 1 <car1> 
+124 1 uncertified 1 <car1> 
+group
+8
+1 13 loaded 2 <car20> <tow_truck0> 
+2 13 loaded 2 <car20> <tow_truck1> 
+3 13 loaded 2 <car20> <tow_truck2> 
+22 0 at 2 <car20> <accident_location3> 
+22 2 at 2 <car20> <garage_halifax> 
+22 3 at 2 <car20> <garage_huddersfield> 
+22 1 at 2 <car20> <garage_brighouse> 
+22 4 at 2 <car20> <garage_queensbury> 
+group
+5
+1 13 loaded 2 <car20> <tow_truck0> 
+2 13 loaded 2 <car20> <tow_truck1> 
+3 13 loaded 2 <car20> <tow_truck2> 
+125 2 waiting 1 <car20> 
+125 1 uncertified 1 <car20> 
+group
+8
+1 14 loaded 2 <car21> <tow_truck0> 
+2 14 loaded 2 <car21> <tow_truck1> 
+3 14 loaded 2 <car21> <tow_truck2> 
+23 0 at 2 <car21> <accident_location4> 
+23 2 at 2 <car21> <garage_halifax> 
+23 3 at 2 <car21> <garage_huddersfield> 
+23 1 at 2 <car21> <garage_brighouse> 
+23 4 at 2 <car21> <garage_queensbury> 
+group
+5
+1 14 loaded 2 <car21> <tow_truck0> 
+2 14 loaded 2 <car21> <tow_truck1> 
+3 14 loaded 2 <car21> <tow_truck2> 
+126 2 waiting 1 <car21> 
+126 1 uncertified 1 <car21> 
+group
+8
+1 15 loaded 2 <car22> <tow_truck0> 
+2 15 loaded 2 <car22> <tow_truck1> 
+3 15 loaded 2 <car22> <tow_truck2> 
+24 0 at 2 <car22> <accident_location3> 
+24 2 at 2 <car22> <garage_halifax> 
+24 3 at 2 <car22> <garage_huddersfield> 
+24 1 at 2 <car22> <garage_brighouse> 
+24 4 at 2 <car22> <garage_queensbury> 
+group
+5
+1 15 loaded 2 <car22> <tow_truck0> 
+2 15 loaded 2 <car22> <tow_truck1> 
+3 15 loaded 2 <car22> <tow_truck2> 
+127 2 waiting 1 <car22> 
+127 1 uncertified 1 <car22> 
+group
+8
+1 16 loaded 2 <car23> <tow_truck0> 
+2 16 loaded 2 <car23> <tow_truck1> 
+3 16 loaded 2 <car23> <tow_truck2> 
+25 0 at 2 <car23> <accident_location0> 
+25 2 at 2 <car23> <garage_halifax> 
+25 3 at 2 <car23> <garage_huddersfield> 
+25 1 at 2 <car23> <garage_brighouse> 
+25 4 at 2 <car23> <garage_queensbury> 
+group
+5
+1 16 loaded 2 <car23> <tow_truck0> 
+2 16 loaded 2 <car23> <tow_truck1> 
+3 16 loaded 2 <car23> <tow_truck2> 
+128 2 waiting 1 <car23> 
+128 1 uncertified 1 <car23> 
+group
+8
+1 17 loaded 2 <car24> <tow_truck0> 
+2 17 loaded 2 <car24> <tow_truck1> 
+3 17 loaded 2 <car24> <tow_truck2> 
+26 0 at 2 <car24> <accident_location2> 
+26 2 at 2 <car24> <garage_halifax> 
+26 3 at 2 <car24> <garage_huddersfield> 
+26 1 at 2 <car24> <garage_brighouse> 
+26 4 at 2 <car24> <garage_queensbury> 
+group
+5
+1 17 loaded 2 <car24> <tow_truck0> 
+2 17 loaded 2 <car24> <tow_truck1> 
+3 17 loaded 2 <car24> <tow_truck2> 
+129 2 waiting 1 <car24> 
+129 1 uncertified 1 <car24> 
+group
+8
+1 18 loaded 2 <car25> <tow_truck0> 
+2 18 loaded 2 <car25> <tow_truck1> 
+3 18 loaded 2 <car25> <tow_truck2> 
+27 0 at 2 <car25> <accident_location4> 
+27 2 at 2 <car25> <garage_halifax> 
+27 3 at 2 <car25> <garage_huddersfield> 
+27 1 at 2 <car25> <garage_brighouse> 
+27 4 at 2 <car25> <garage_queensbury> 
+group
+5
+1 18 loaded 2 <car25> <tow_truck0> 
+2 18 loaded 2 <car25> <tow_truck1> 
+3 18 loaded 2 <car25> <tow_truck2> 
+130 2 waiting 1 <car25> 
+130 1 uncertified 1 <car25> 
+group
+8
+1 19 loaded 2 <car26> <tow_truck0> 
+2 19 loaded 2 <car26> <tow_truck1> 
+3 19 loaded 2 <car26> <tow_truck2> 
+28 0 at 2 <car26> <accident_location1> 
+28 2 at 2 <car26> <garage_halifax> 
+28 3 at 2 <car26> <garage_huddersfield> 
+28 1 at 2 <car26> <garage_brighouse> 
+28 4 at 2 <car26> <garage_queensbury> 
+group
+5
+1 19 loaded 2 <car26> <tow_truck0> 
+2 19 loaded 2 <car26> <tow_truck1> 
+3 19 loaded 2 <car26> <tow_truck2> 
+131 2 waiting 1 <car26> 
+131 1 uncertified 1 <car26> 
+group
+8
+1 20 loaded 2 <car27> <tow_truck0> 
+2 20 loaded 2 <car27> <tow_truck1> 
+3 20 loaded 2 <car27> <tow_truck2> 
+29 0 at 2 <car27> <accident_location1> 
+29 2 at 2 <car27> <garage_halifax> 
+29 3 at 2 <car27> <garage_huddersfield> 
+29 1 at 2 <car27> <garage_brighouse> 
+29 4 at 2 <car27> <garage_queensbury> 
+group
+5
+1 20 loaded 2 <car27> <tow_truck0> 
+2 20 loaded 2 <car27> <tow_truck1> 
+3 20 loaded 2 <car27> <tow_truck2> 
+132 2 waiting 1 <car27> 
+132 1 uncertified 1 <car27> 
+group
+8
+1 21 loaded 2 <car28> <tow_truck0> 
+2 21 loaded 2 <car28> <tow_truck1> 
+3 21 loaded 2 <car28> <tow_truck2> 
+30 0 at 2 <car28> <accident_location0> 
+30 2 at 2 <car28> <garage_halifax> 
+30 3 at 2 <car28> <garage_huddersfield> 
+30 1 at 2 <car28> <garage_brighouse> 
+30 4 at 2 <car28> <garage_queensbury> 
+group
+5
+1 21 loaded 2 <car28> <tow_truck0> 
+2 21 loaded 2 <car28> <tow_truck1> 
+3 21 loaded 2 <car28> <tow_truck2> 
+133 2 waiting 1 <car28> 
+133 1 uncertified 1 <car28> 
+group
+8
+1 22 loaded 2 <car29> <tow_truck0> 
+2 22 loaded 2 <car29> <tow_truck1> 
+3 22 loaded 2 <car29> <tow_truck2> 
+31 0 at 2 <car29> <accident_location2> 
+31 2 at 2 <car29> <garage_halifax> 
+31 3 at 2 <car29> <garage_huddersfield> 
+31 1 at 2 <car29> <garage_brighouse> 
+31 4 at 2 <car29> <garage_queensbury> 
+group
+5
+1 22 loaded 2 <car29> <tow_truck0> 
+2 22 loaded 2 <car29> <tow_truck1> 
+3 22 loaded 2 <car29> <tow_truck2> 
+134 2 waiting 1 <car29> 
+134 1 uncertified 1 <car29> 
+group
+8
+1 23 loaded 2 <car2> <tow_truck0> 
+2 23 loaded 2 <car2> <tow_truck1> 
+3 23 loaded 2 <car2> <tow_truck2> 
+32 0 at 2 <car2> <accident_location4> 
+32 2 at 2 <car2> <garage_halifax> 
+32 3 at 2 <car2> <garage_huddersfield> 
+32 1 at 2 <car2> <garage_brighouse> 
+32 4 at 2 <car2> <garage_queensbury> 
+group
+5
+1 23 loaded 2 <car2> <tow_truck0> 
+2 23 loaded 2 <car2> <tow_truck1> 
+3 23 loaded 2 <car2> <tow_truck2> 
+135 2 waiting 1 <car2> 
+135 1 uncertified 1 <car2> 
+group
+8
+1 24 loaded 2 <car30> <tow_truck0> 
+2 24 loaded 2 <car30> <tow_truck1> 
+3 24 loaded 2 <car30> <tow_truck2> 
+33 0 at 2 <car30> <accident_location2> 
+33 2 at 2 <car30> <garage_halifax> 
+33 3 at 2 <car30> <garage_huddersfield> 
+33 1 at 2 <car30> <garage_brighouse> 
+33 4 at 2 <car30> <garage_queensbury> 
+group
+5
+1 24 loaded 2 <car30> <tow_truck0> 
+2 24 loaded 2 <car30> <tow_truck1> 
+3 24 loaded 2 <car30> <tow_truck2> 
+136 2 waiting 1 <car30> 
+136 1 uncertified 1 <car30> 
+group
+8
+1 25 loaded 2 <car31> <tow_truck0> 
+2 25 loaded 2 <car31> <tow_truck1> 
+3 25 loaded 2 <car31> <tow_truck2> 
+34 0 at 2 <car31> <accident_location4> 
+34 2 at 2 <car31> <garage_halifax> 
+34 3 at 2 <car31> <garage_huddersfield> 
+34 1 at 2 <car31> <garage_brighouse> 
+34 4 at 2 <car31> <garage_queensbury> 
+group
+5
+1 25 loaded 2 <car31> <tow_truck0> 
+2 25 loaded 2 <car31> <tow_truck1> 
+3 25 loaded 2 <car31> <tow_truck2> 
+137 2 waiting 1 <car31> 
+137 1 uncertified 1 <car31> 
+group
+8
+1 26 loaded 2 <car32> <tow_truck0> 
+2 26 loaded 2 <car32> <tow_truck1> 
+3 26 loaded 2 <car32> <tow_truck2> 
+35 0 at 2 <car32> <accident_location1> 
+35 2 at 2 <car32> <garage_halifax> 
+35 3 at 2 <car32> <garage_huddersfield> 
+35 1 at 2 <car32> <garage_brighouse> 
+35 4 at 2 <car32> <garage_queensbury> 
+group
+5
+1 26 loaded 2 <car32> <tow_truck0> 
+2 26 loaded 2 <car32> <tow_truck1> 
+3 26 loaded 2 <car32> <tow_truck2> 
+138 2 waiting 1 <car32> 
+138 1 uncertified 1 <car32> 
+group
+8
+1 27 loaded 2 <car3> <tow_truck0> 
+2 27 loaded 2 <car3> <tow_truck1> 
+3 27 loaded 2 <car3> <tow_truck2> 
+36 0 at 2 <car3> <accident_location3> 
+36 2 at 2 <car3> <garage_halifax> 
+36 3 at 2 <car3> <garage_huddersfield> 
+36 1 at 2 <car3> <garage_brighouse> 
+36 4 at 2 <car3> <garage_queensbury> 
+group
+5
+1 27 loaded 2 <car3> <tow_truck0> 
+2 27 loaded 2 <car3> <tow_truck1> 
+3 27 loaded 2 <car3> <tow_truck2> 
+139 2 waiting 1 <car3> 
+139 1 uncertified 1 <car3> 
+group
+8
+1 28 loaded 2 <car4> <tow_truck0> 
+2 28 loaded 2 <car4> <tow_truck1> 
+3 28 loaded 2 <car4> <tow_truck2> 
+37 0 at 2 <car4> <accident_location1> 
+37 2 at 2 <car4> <garage_halifax> 
+37 3 at 2 <car4> <garage_huddersfield> 
+37 1 at 2 <car4> <garage_brighouse> 
+37 4 at 2 <car4> <garage_queensbury> 
+group
+5
+1 28 loaded 2 <car4> <tow_truck0> 
+2 28 loaded 2 <car4> <tow_truck1> 
+3 28 loaded 2 <car4> <tow_truck2> 
+140 2 waiting 1 <car4> 
+140 1 uncertified 1 <car4> 
+group
+8
+1 29 loaded 2 <car5> <tow_truck0> 
+2 29 loaded 2 <car5> <tow_truck1> 
+3 29 loaded 2 <car5> <tow_truck2> 
+38 0 at 2 <car5> <accident_location2> 
+38 2 at 2 <car5> <garage_halifax> 
+38 3 at 2 <car5> <garage_huddersfield> 
+38 1 at 2 <car5> <garage_brighouse> 
+38 4 at 2 <car5> <garage_queensbury> 
+group
+5
+1 29 loaded 2 <car5> <tow_truck0> 
+2 29 loaded 2 <car5> <tow_truck1> 
+3 29 loaded 2 <car5> <tow_truck2> 
+141 2 waiting 1 <car5> 
+141 1 uncertified 1 <car5> 
+group
+8
+1 30 loaded 2 <car6> <tow_truck0> 
+2 30 loaded 2 <car6> <tow_truck1> 
+3 30 loaded 2 <car6> <tow_truck2> 
+39 0 at 2 <car6> <accident_location1> 
+39 2 at 2 <car6> <garage_halifax> 
+39 3 at 2 <car6> <garage_huddersfield> 
+39 1 at 2 <car6> <garage_brighouse> 
+39 4 at 2 <car6> <garage_queensbury> 
+group
+5
+1 30 loaded 2 <car6> <tow_truck0> 
+2 30 loaded 2 <car6> <tow_truck1> 
+3 30 loaded 2 <car6> <tow_truck2> 
+142 2 waiting 1 <car6> 
+142 1 uncertified 1 <car6> 
+group
+8
+1 31 loaded 2 <car7> <tow_truck0> 
+2 31 loaded 2 <car7> <tow_truck1> 
+3 31 loaded 2 <car7> <tow_truck2> 
+40 0 at 2 <car7> <accident_location0> 
+40 2 at 2 <car7> <garage_halifax> 
+40 3 at 2 <car7> <garage_huddersfield> 
+40 1 at 2 <car7> <garage_brighouse> 
+40 4 at 2 <car7> <garage_queensbury> 
+group
+5
+1 31 loaded 2 <car7> <tow_truck0> 
+2 31 loaded 2 <car7> <tow_truck1> 
+3 31 loaded 2 <car7> <tow_truck2> 
+143 2 waiting 1 <car7> 
+143 1 uncertified 1 <car7> 
+group
+8
+1 32 loaded 2 <car8> <tow_truck0> 
+2 32 loaded 2 <car8> <tow_truck1> 
+3 32 loaded 2 <car8> <tow_truck2> 
+41 0 at 2 <car8> <accident_location0> 
+41 2 at 2 <car8> <garage_halifax> 
+41 3 at 2 <car8> <garage_huddersfield> 
+41 1 at 2 <car8> <garage_brighouse> 
+41 4 at 2 <car8> <garage_queensbury> 
+group
+5
+1 32 loaded 2 <car8> <tow_truck0> 
+2 32 loaded 2 <car8> <tow_truck1> 
+3 32 loaded 2 <car8> <tow_truck2> 
+144 2 waiting 1 <car8> 
+144 1 uncertified 1 <car8> 
+group
+8
+1 33 loaded 2 <car9> <tow_truck0> 
+2 33 loaded 2 <car9> <tow_truck1> 
+3 33 loaded 2 <car9> <tow_truck2> 
+42 0 at 2 <car9> <accident_location2> 
+42 2 at 2 <car9> <garage_halifax> 
+42 3 at 2 <car9> <garage_huddersfield> 
+42 1 at 2 <car9> <garage_brighouse> 
+42 4 at 2 <car9> <garage_queensbury> 
+group
+5
+1 33 loaded 2 <car9> <tow_truck0> 
+2 33 loaded 2 <car9> <tow_truck1> 
+3 33 loaded 2 <car9> <tow_truck2> 
+145 2 waiting 1 <car9> 
+145 1 uncertified 1 <car9> 
+group
+18
+5 0 at 2 <fire_brigade0> <accident_location0> 
+5 1 at 2 <fire_brigade0> <accident_location1> 
+5 2 at 2 <fire_brigade0> <accident_location2> 
+5 3 at 2 <fire_brigade0> <accident_location3> 
+5 4 at 2 <fire_brigade0> <accident_location4> 
+5 7 at 2 <fire_brigade0> <fire_hud> 
+5 6 at 2 <fire_brigade0> <fire_hal> 
+5 17 at 2 <fire_brigade0> <police_queen> 
+5 14 at 2 <fire_brigade0> <police_bradley> 
+5 15 at 2 <fire_brigade0> <police_halifax> 
+5 16 at 2 <fire_brigade0> <police_huddersfield> 
+5 13 at 2 <fire_brigade0> <huddersfield_hospital> 
+5 12 at 2 <fire_brigade0> <halifax_hospital> 
+5 5 at 2 <fire_brigade0> <brighouse_hospital> 
+5 9 at 2 <fire_brigade0> <garage_halifax> 
+5 10 at 2 <fire_brigade0> <garage_huddersfield> 
+5 8 at 2 <fire_brigade0> <garage_brighouse> 
+5 11 at 2 <fire_brigade0> <garage_queensbury> 
+group
+18
+6 0 at 2 <police_car0> <accident_location0> 
+6 1 at 2 <police_car0> <accident_location1> 
+6 2 at 2 <police_car0> <accident_location2> 
+6 3 at 2 <police_car0> <accident_location3> 
+6 4 at 2 <police_car0> <accident_location4> 
+6 7 at 2 <police_car0> <fire_hud> 
+6 6 at 2 <police_car0> <fire_hal> 
+6 17 at 2 <police_car0> <police_queen> 
+6 14 at 2 <police_car0> <police_bradley> 
+6 15 at 2 <police_car0> <police_halifax> 
+6 16 at 2 <police_car0> <police_huddersfield> 
+6 13 at 2 <police_car0> <huddersfield_hospital> 
+6 12 at 2 <police_car0> <halifax_hospital> 
+6 5 at 2 <police_car0> <brighouse_hospital> 
+6 9 at 2 <police_car0> <garage_halifax> 
+6 10 at 2 <police_car0> <garage_huddersfield> 
+6 8 at 2 <police_car0> <garage_brighouse> 
+6 11 at 2 <police_car0> <garage_queensbury> 
+group
+18
+7 0 at 2 <tow_truck0> <accident_location0> 
+7 1 at 2 <tow_truck0> <accident_location1> 
+7 2 at 2 <tow_truck0> <accident_location2> 
+7 3 at 2 <tow_truck0> <accident_location3> 
+7 4 at 2 <tow_truck0> <accident_location4> 
+7 7 at 2 <tow_truck0> <fire_hud> 
+7 6 at 2 <tow_truck0> <fire_hal> 
+7 17 at 2 <tow_truck0> <police_queen> 
+7 14 at 2 <tow_truck0> <police_bradley> 
+7 15 at 2 <tow_truck0> <police_halifax> 
+7 16 at 2 <tow_truck0> <police_huddersfield> 
+7 13 at 2 <tow_truck0> <huddersfield_hospital> 
+7 12 at 2 <tow_truck0> <halifax_hospital> 
+7 5 at 2 <tow_truck0> <brighouse_hospital> 
+7 9 at 2 <tow_truck0> <garage_halifax> 
+7 10 at 2 <tow_truck0> <garage_huddersfield> 
+7 8 at 2 <tow_truck0> <garage_brighouse> 
+7 11 at 2 <tow_truck0> <garage_queensbury> 
+group
+18
+8 0 at 2 <tow_truck1> <accident_location0> 
+8 1 at 2 <tow_truck1> <accident_location1> 
+8 2 at 2 <tow_truck1> <accident_location2> 
+8 3 at 2 <tow_truck1> <accident_location3> 
+8 4 at 2 <tow_truck1> <accident_location4> 
+8 7 at 2 <tow_truck1> <fire_hud> 
+8 6 at 2 <tow_truck1> <fire_hal> 
+8 17 at 2 <tow_truck1> <police_queen> 
+8 14 at 2 <tow_truck1> <police_bradley> 
+8 15 at 2 <tow_truck1> <police_halifax> 
+8 16 at 2 <tow_truck1> <police_huddersfield> 
+8 13 at 2 <tow_truck1> <huddersfield_hospital> 
+8 12 at 2 <tow_truck1> <halifax_hospital> 
+8 5 at 2 <tow_truck1> <brighouse_hospital> 
+8 9 at 2 <tow_truck1> <garage_halifax> 
+8 10 at 2 <tow_truck1> <garage_huddersfield> 
+8 8 at 2 <tow_truck1> <garage_brighouse> 
+8 11 at 2 <tow_truck1> <garage_queensbury> 
+group
+18
+9 0 at 2 <tow_truck2> <accident_location0> 
+9 1 at 2 <tow_truck2> <accident_location1> 
+9 2 at 2 <tow_truck2> <accident_location2> 
+9 3 at 2 <tow_truck2> <accident_location3> 
+9 4 at 2 <tow_truck2> <accident_location4> 
+9 7 at 2 <tow_truck2> <fire_hud> 
+9 6 at 2 <tow_truck2> <fire_hal> 
+9 17 at 2 <tow_truck2> <police_queen> 
+9 14 at 2 <tow_truck2> <police_bradley> 
+9 15 at 2 <tow_truck2> <police_halifax> 
+9 16 at 2 <tow_truck2> <police_huddersfield> 
+9 13 at 2 <tow_truck2> <huddersfield_hospital> 
+9 12 at 2 <tow_truck2> <halifax_hospital> 
+9 5 at 2 <tow_truck2> <brighouse_hospital> 
+9 9 at 2 <tow_truck2> <garage_halifax> 
+9 10 at 2 <tow_truck2> <garage_huddersfield> 
+9 8 at 2 <tow_truck2> <garage_brighouse> 
+9 11 at 2 <tow_truck2> <garage_queensbury> 
+group
+1
+288 0 on_fire 1 <car0> 
+group
+1
+289 0 on_fire 1 <car11> 
+group
+1
+290 0 on_fire 1 <car14> 
+group
+1
+291 0 on_fire 1 <car15> 
+group
+1
+292 0 on_fire 1 <car17> 
+group
+1
+293 0 on_fire 1 <car19> 
+group
+1
+294 0 on_fire 1 <car1> 
+group
+1
+295 0 on_fire 1 <car21> 
+group
+1
+296 0 on_fire 1 <car22> 
+group
+1
+297 0 on_fire 1 <car23> 
+group
+1
+298 0 on_fire 1 <car24> 
+group
+1
+299 0 on_fire 1 <car25> 
+group
+1
+300 0 on_fire 1 <car26> 
+group
+1
+301 0 on_fire 1 <car27> 
+group
+1
+302 0 on_fire 1 <car28> 
+group
+1
+303 0 on_fire 1 <car29> 
+group
+1
+304 0 on_fire 1 <car32> 
+group
+1
+305 0 on_fire 1 <car7> 
+group
+1
+306 0 on_fire 1 <car8> 
+group
+1
+307 0 trapped 1 <acc_victim0> 
+group
+1
+308 0 trapped 1 <acc_victim10> 
+group
+1
+309 0 trapped 1 <acc_victim13> 
+group
+1
+310 0 trapped 1 <acc_victim19> 
+group
+1
+311 0 trapped 1 <acc_victim1> 
+group
+1
+312 0 trapped 1 <acc_victim20> 
+group
+1
+313 0 trapped 1 <acc_victim24> 
+group
+1
+314 0 trapped 1 <acc_victim31> 
+group
+1
+315 0 trapped 1 <acc_victim3> 
+group
+1
+316 0 trapped 1 <acc_victim4> 
+group
+1
+317 0 trapped 1 <acc_victim6> 
+group
+1
+318 0 trapped 1 <acc_victim9> 
+group
+1
+78 1 uncertified 1 <acc_victim0> 
+group
+1
+79 1 uncertified 1 <acc_victim10> 
+group
+1
+80 1 uncertified 1 <acc_victim11> 
+group
+1
+81 1 uncertified 1 <acc_victim12> 
+group
+1
+82 1 uncertified 1 <acc_victim13> 
+group
+1
+83 1 uncertified 1 <acc_victim14> 
+group
+1
+84 1 uncertified 1 <acc_victim15> 
+group
+1
+85 1 uncertified 1 <acc_victim16> 
+group
+1
+86 1 uncertified 1 <acc_victim17> 
+group
+1
+87 1 uncertified 1 <acc_victim18> 
+group
+1
+88 1 uncertified 1 <acc_victim19> 
+group
+1
+89 1 uncertified 1 <acc_victim1> 
+group
+1
+90 1 uncertified 1 <acc_victim20> 
+group
+1
+91 1 uncertified 1 <acc_victim21> 
+group
+1
+92 1 uncertified 1 <acc_victim22> 
+group
+1
+93 1 uncertified 1 <acc_victim23> 
+group
+1
+94 1 uncertified 1 <acc_victim24> 
+group
+1
+95 1 uncertified 1 <acc_victim25> 
+group
+1
+96 1 uncertified 1 <acc_victim26> 
+group
+1
+97 1 uncertified 1 <acc_victim27> 
+group
+1
+98 1 uncertified 1 <acc_victim28> 
+group
+1
+99 1 uncertified 1 <acc_victim29> 
+group
+1
+100 1 uncertified 1 <acc_victim2> 
+group
+1
+101 1 uncertified 1 <acc_victim30> 
+group
+1
+102 1 uncertified 1 <acc_victim31> 
+group
+1
+103 1 uncertified 1 <acc_victim32> 
+group
+1
+104 1 uncertified 1 <acc_victim33> 
+group
+1
+105 1 uncertified 1 <acc_victim34> 
+group
+1
+106 1 uncertified 1 <acc_victim3> 
+group
+1
+107 1 uncertified 1 <acc_victim4> 
+group
+1
+108 1 uncertified 1 <acc_victim5> 
+group
+1
+109 1 uncertified 1 <acc_victim6> 
+group
+1
+110 1 uncertified 1 <acc_victim7> 
+group
+1
+111 1 uncertified 1 <acc_victim8> 
+group
+1
+112 1 uncertified 1 <acc_victim9> 
+group
+1
+113 1 uncertified 1 <car0> 
+group
+1
+114 1 uncertified 1 <car10> 
+group
+1
+115 1 uncertified 1 <car11> 
+group
+1
+116 1 uncertified 1 <car12> 
+group
+1
+117 1 uncertified 1 <car13> 
+group
+1
+118 1 uncertified 1 <car14> 
+group
+1
+119 1 uncertified 1 <car15> 
+group
+1
+120 1 uncertified 1 <car16> 
+group
+1
+121 1 uncertified 1 <car17> 
+group
+1
+122 1 uncertified 1 <car18> 
+group
+1
+123 1 uncertified 1 <car19> 
+group
+1
+124 1 uncertified 1 <car1> 
+group
+1
+125 1 uncertified 1 <car20> 
+group
+1
+126 1 uncertified 1 <car21> 
+group
+1
+127 1 uncertified 1 <car22> 
+group
+1
+128 1 uncertified 1 <car23> 
+group
+1
+129 1 uncertified 1 <car24> 
+group
+1
+130 1 uncertified 1 <car25> 
+group
+1
+131 1 uncertified 1 <car26> 
+group
+1
+132 1 uncertified 1 <car27> 
+group
+1
+133 1 uncertified 1 <car28> 
+group
+1
+134 1 uncertified 1 <car29> 
+group
+1
+135 1 uncertified 1 <car2> 
+group
+1
+136 1 uncertified 1 <car30> 
+group
+1
+137 1 uncertified 1 <car31> 
+group
+1
+138 1 uncertified 1 <car32> 
+group
+1
+139 1 uncertified 1 <car3> 
+group
+1
+140 1 uncertified 1 <car4> 
+group
+1
+141 1 uncertified 1 <car5> 
+group
+1
+142 1 uncertified 1 <car6> 
+group
+1
+143 1 uncertified 1 <car7> 
+group
+1
+144 1 uncertified 1 <car8> 
+group
+1
+145 1 uncertified 1 <car9> 
+group
+1
+263 0 off_fire 1 <car17> 
+group
+1
+273 0 off_fire 1 <car26> 
+group
+1
+151 0 aided 1 <acc_victim14> 
+group
+1
+155 0 aided 1 <acc_victim18> 
+group
+1
+341 0 untrapped 1 <acc_victim2> 
+group
+1
+350 0 untrapped 1 <acc_victim6> 
+group
+1
+343 0 untrapped 1 <acc_victim31> 
+group
+1
+338 0 untrapped 1 <acc_victim27> 
+group
+1
+147 0 aided 1 <acc_victim10> 
+group
+1
+265 0 off_fire 1 <car19> 
+group
+1
+167 0 aided 1 <acc_victim29> 
+group
+1
+281 0 off_fire 1 <car3> 
+group
+1
+257 0 off_fire 1 <car11> 
+group
+1
+148 0 aided 1 <acc_victim11> 
+group
+1
+285 0 off_fire 1 <car7> 
+group
+1
+349 0 untrapped 1 <acc_victim5> 
+group
+1
+274 0 off_fire 1 <car27> 
+group
+1
+170 0 aided 1 <acc_victim31> 
+group
+1
+160 0 aided 1 <acc_victim22> 
+group
+1
+334 0 untrapped 1 <acc_victim23> 
+group
+1
+269 0 off_fire 1 <car22> 
+group
+1
+262 0 off_fire 1 <car16> 
+group
+1
+163 0 aided 1 <acc_victim25> 
+group
+1
+321 0 untrapped 1 <acc_victim11> 
+group
+1
+277 0 off_fire 1 <car2> 
+group
+1
+279 0 off_fire 1 <car31> 
+group
+1
+173 0 aided 1 <acc_victim34> 
+group
+1
+162 0 aided 1 <acc_victim24> 
+group
+1
+276 0 off_fire 1 <car29> 
+group
+1
+348 0 untrapped 1 <acc_victim4> 
+group
+1
+164 0 aided 1 <acc_victim26> 
+group
+1
+284 0 off_fire 1 <car6> 
+group
+1
+328 0 untrapped 1 <acc_victim18> 
+group
+1
+165 0 aided 1 <acc_victim27> 
+group
+1
+346 0 untrapped 1 <acc_victim34> 
+group
+1
+352 0 untrapped 1 <acc_victim8> 
+group
+1
+353 0 untrapped 1 <acc_victim9> 
+group
+1
+156 0 aided 1 <acc_victim19> 
+group
+1
+159 0 aided 1 <acc_victim21> 
+group
+1
+272 0 off_fire 1 <car25> 
+group
+1
+157 0 aided 1 <acc_victim1> 
+group
+1
+330 0 untrapped 1 <acc_victim1> 
+group
+1
+345 0 untrapped 1 <acc_victim33> 
+group
+1
+347 0 untrapped 1 <acc_victim3> 
+group
+1
+172 0 aided 1 <acc_victim33> 
+group
+1
+344 0 untrapped 1 <acc_victim32> 
+group
+1
+275 0 off_fire 1 <car28> 
+group
+1
+166 0 aided 1 <acc_victim28> 
+group
+1
+327 0 untrapped 1 <acc_victim17> 
+group
+1
+268 0 off_fire 1 <car21> 
+group
+1
+255 0 off_fire 1 <car0> 
+group
+1
+282 0 off_fire 1 <car4> 
+group
+1
+184 0 busy 1 <tow_truck0> 
+group
+1
+168 0 aided 1 <acc_victim2> 
+group
+1
+339 0 untrapped 1 <acc_victim28> 
+group
+1
+161 0 aided 1 <acc_victim23> 
+group
+1
+259 0 off_fire 1 <car13> 
+group
+1
+319 0 untrapped 1 <acc_victim0> 
+group
+1
+336 0 untrapped 1 <acc_victim25> 
+group
+1
+169 0 aided 1 <acc_victim30> 
+group
+1
+286 0 off_fire 1 <car8> 
+group
+1
+331 0 untrapped 1 <acc_victim20> 
+group
+1
+177 0 aided 1 <acc_victim6> 
+group
+1
+176 0 aided 1 <acc_victim5> 
+group
+1
+280 0 off_fire 1 <car32> 
+group
+1
+351 0 untrapped 1 <acc_victim7> 
+group
+1
+323 0 untrapped 1 <acc_victim13> 
+group
+1
+324 0 untrapped 1 <acc_victim14> 
+group
+1
+329 0 untrapped 1 <acc_victim19> 
+group
+1
+152 0 aided 1 <acc_victim15> 
+group
+1
+332 0 untrapped 1 <acc_victim21> 
+group
+1
+340 0 untrapped 1 <acc_victim29> 
+group
+1
+326 0 untrapped 1 <acc_victim16> 
+group
+1
+175 0 aided 1 <acc_victim4> 
+group
+1
+153 0 aided 1 <acc_victim16> 
+group
+1
+178 0 aided 1 <acc_victim7> 
+group
+1
+183 0 busy 1 <ambulance0> 
+group
+1
+158 0 aided 1 <acc_victim20> 
+group
+1
+335 0 untrapped 1 <acc_victim24> 
+group
+1
+185 0 busy 1 <tow_truck1> 
+group
+1
+322 0 untrapped 1 <acc_victim12> 
+group
+1
+333 0 untrapped 1 <acc_victim22> 
+group
+1
+267 0 off_fire 1 <car20> 
+group
+1
+260 0 off_fire 1 <car14> 
+group
+1
+179 0 aided 1 <acc_victim8> 
+group
+1
+261 0 off_fire 1 <car15> 
+group
+1
+186 0 busy 1 <tow_truck2> 
+group
+1
+266 0 off_fire 1 <car1> 
+group
+1
+271 0 off_fire 1 <car24> 
+group
+1
+149 0 aided 1 <acc_victim12> 
+group
+1
+150 0 aided 1 <acc_victim13> 
+group
+1
+283 0 off_fire 1 <car5> 
+group
+1
+287 0 off_fire 1 <car9> 
+group
+1
+325 0 untrapped 1 <acc_victim15> 
+group
+1
+171 0 aided 1 <acc_victim32> 
+group
+1
+146 0 aided 1 <acc_victim0> 
+group
+1
+342 0 untrapped 1 <acc_victim30> 
+group
+1
+180 0 aided 1 <acc_victim9> 
+group
+1
+256 0 off_fire 1 <car10> 
+group
+1
+278 0 off_fire 1 <car30> 
+group
+1
+258 0 off_fire 1 <car12> 
+group
+1
+154 0 aided 1 <acc_victim17> 
+group
+1
+270 0 off_fire 1 <car23> 
+group
+1
+320 0 untrapped 1 <acc_victim10> 
+group
+1
+174 0 aided 1 <acc_victim3> 
+group
+1
+264 0 off_fire 1 <car18> 
+group
+1
+337 0 untrapped 1 <acc_victim26> 
+end_groups
